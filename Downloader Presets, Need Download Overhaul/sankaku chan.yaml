@@ -3,7 +3,7 @@ _advance_by_page_num: true
 _image_data: null
 _image_id: highres
 _name: sankaku chan
-_search_separator: '%20'
+_search_separator: +
 _search_url: https://chan.sankakucomplex.com/?tags=%tags%&page=%index%
 _tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
   tag-type-copyright: series, tag-type-general: '', tag-type-medium: medium, tag-type-meta: meta,
