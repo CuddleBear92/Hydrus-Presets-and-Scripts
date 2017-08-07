@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: View larger version
+_image_id: null
+_name: hypnohub
+_search_separator: +
+_search_url: http://hypnohub.net/post?page=%index%&tags=%tags%
+_tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
+  tag-type-copyright: series, tag-type-general: ''}
+_thumb_classname: thumb

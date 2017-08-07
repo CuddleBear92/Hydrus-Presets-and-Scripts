@@ -1,0 +1,9 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: main_image
+_name: rule34hentai
+_search_separator: '%20'
+_search_url: http://rule34hentai.net/post/list/%tags%/%index%
+_tag_classnames_to_namespaces: {tag_name: ''}
+_thumb_classname: shm-thumb
