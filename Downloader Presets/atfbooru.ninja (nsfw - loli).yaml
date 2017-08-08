@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: image
+_name: atfbooru.ninja (nsfw - loli)
+_search_separator: +
+_search_url: http://atfbooru.ninja/posts?ms=1&page=%index%&tags=%tags%
+_tag_classnames_to_namespaces: {category-0: '', category-1: creator, category-3: series,
+  category-4: character}
+_thumb_classname: post-preview
