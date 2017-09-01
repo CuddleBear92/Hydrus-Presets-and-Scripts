@@ -1,0 +1,11 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: image
+_name: 3dbooru (behoimi.org) pool by id (NSFW)
+_search_separator: +
+_search_url: http://www.behoimi.org/pool/show/%tags%?page=%index%
+_tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
+  tag-type-copyright: series, tag-type-general: '', tag-type-model: idol, tag-type-photo_set: photo
+    set}
+_thumb_classname: thumb
