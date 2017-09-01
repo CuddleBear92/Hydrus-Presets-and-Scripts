@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: Video
+_image_id: null
+_name: sakugabooru (SFW)
+_search_separator: +
+_search_url: https://sakugabooru.com/post?page=%index%&tags=%tags%
+_tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-copyright: series,
+  tag-type-general: '', tag-type-meta: meta, tag-type-terminology: ''}
+_thumb_classname: thumb
