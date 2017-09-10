@@ -2,8 +2,8 @@
 _advance_by_page_num: true
 _image_data: null
 _image_id: wallpaper
-_name: wallhaven.cc people  SFWSketchy
+_name: wallhaven.cc favs by folderID(NSFW)
 _search_separator: +
-_search_url: https://alpha.wallhaven.cc/search?q=%tags%&categories=001&purity=110&page=%index%
+_search_url: https://alpha.wallhaven.cc/user/[EDIT to Username!]/favorites/%tags%?page=%index%
 _tag_classnames_to_namespaces: {tagname: ''}
 _thumb_classname: preview
