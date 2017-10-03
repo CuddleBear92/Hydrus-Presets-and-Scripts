@@ -6,5 +6,5 @@ _name: lolibooru.moe Siterip by Page Number (NSFW)
 _search_separator: +
 _search_url: https://lolibooru.moe/post?page=%tags%
 _tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
-  tag-type-circle: circle, tag-type-copyright: series, tag-type-general: '', tag-type-style: meta}
+  tag-type-circle: circle, tag-type-copyright: series, tag-type-faults: faults, tag-type-general: '', tag-type-style: meta}
 _thumb_classname: thumb
