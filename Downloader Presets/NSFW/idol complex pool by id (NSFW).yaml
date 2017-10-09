@@ -2,9 +2,9 @@
 _advance_by_page_num: true
 _image_data: null
 _image_id: highres
-_name: idol complex
+_name: idol complex pool by id (NSFW)
 _search_separator: +
-_search_url: https://idol.sankakucomplex.com/?tags=%tags%&page=%index%
+_search_url: https://idol.sankakucomplex.com/pool/show/%tags%?page=%index%
 _tag_classnames_to_namespaces: {tag-type-character: character, tag-type-copyright: series,
   tag-type-general: '', tag-type-idol: idol, tag-type-medium: medium, tag-type-meta: meta,
   tag-type-photo_set: photo set}

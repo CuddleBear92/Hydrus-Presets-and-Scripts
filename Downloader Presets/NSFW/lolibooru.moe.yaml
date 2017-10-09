@@ -1,10 +1,10 @@
 !Booru
 _advance_by_page_num: true
-_image_data: View larger version
-_image_id: null
-_name: lolibooru.moe
+_image_data: null
+_image_id: highres
+_name: lolibooru.moe (NSFW)
 _search_separator: +
 _search_url: https://lolibooru.moe/post?tags=%tags%&page=%index%
 _tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
-  tag-type-circle: circle, tag-type-copyright: series, tag-type-general: '', tag-type-style: meta}
+  tag-type-circle: circle, tag-type-copyright: series, tag-type-faults: faults, tag-type-general: '', tag-type-style: meta}
 _thumb_classname: thumb

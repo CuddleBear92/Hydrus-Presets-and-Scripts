@@ -1,7 +1,7 @@
 !Booru
 _advance_by_page_num: true
-_image_data: Video
-_image_id: null
+_image_data: null
+_image_id: highres
 _name: sakugabooru (SFW)
 _search_separator: +
 _search_url: https://sakugabooru.com/post?page=%index%&tags=%tags%
