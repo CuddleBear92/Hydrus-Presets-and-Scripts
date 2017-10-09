@@ -1,5 +1,6 @@
 # Hydrus-Presets-and-Scripts
 collection of presets and scripts for Hydrus
+Total Collection of Supported Sites are found here: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/Supported-websites
 
 Hydrus: https://github.com/hydrusnetwork/hydrus
 
