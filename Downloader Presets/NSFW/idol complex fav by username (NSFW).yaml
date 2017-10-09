@@ -2,7 +2,7 @@
 _advance_by_page_num: true
 _image_data: null
 _image_id: highres
-_name: idol complex (NSFW)
+_name: idol complex fav by username(NSFW)
 _search_separator: +
 _search_url: https://idol.sankakucomplex.com/?tags=fav%3A%tags%&page=%index%
 _tag_classnames_to_namespaces: {tag-type-character: character, tag-type-copyright: series,
