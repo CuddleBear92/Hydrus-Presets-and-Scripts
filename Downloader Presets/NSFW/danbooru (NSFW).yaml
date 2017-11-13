@@ -5,6 +5,6 @@ _image_id: image
 _name: danbooru
 _search_separator: '%20'
 _search_url: http://danbooru.donmai.us/posts?page=%index%&tags=%tags%
-_tag_classnames_to_namespaces: {category-0: '', category-1: creator, category-2: meta,
-  category-3: series, category-4: character, category-5: meta, category-6: meta, category-7: meta}
+_tag_classnames_to_namespaces: {category-0: '', category-1: creator,
+  category-3: series, category-4: character, category-5: meta}
 _thumb_classname: post-preview
