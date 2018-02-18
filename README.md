@@ -1,5 +1,6 @@
-# Hydrus-Presets-and-Scripts
-collection of presets and scripts for Hydrus
+# Hydrus Presets, Scripts & Issue Tracker
+A collection of presets and scripts for Hydrus.
+Issues for the main Hydrus repo is also listed here https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/labels/Hydrus
 Total Collection of Supported Sites are found here: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/0--Supported-websites
 
 Hydrus: https://github.com/hydrusnetwork/hydrus
