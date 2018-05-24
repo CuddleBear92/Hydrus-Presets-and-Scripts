@@ -5,5 +5,5 @@ _image_id: ''
 _name: inkbunny search parser
 _search_separator: +
 _search_url: https://inkbunny.net/submissionsviewall.php?mode=search&orderby=create_datetime&text=%tags%&stringtype=and&keywords=yes&title=yes&description=yes&page=%index%
-_tag_classnames_to_namespaces: {}
+_tag_classnames_to_namespaces: {asddsaas: '', creator: creator}
 _thumb_classname: 'widget_imageFromSubmission '
