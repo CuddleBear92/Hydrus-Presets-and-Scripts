@@ -1,0 +1,9 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: ''
+_name: hentai-foundry creator scraps
+_search_separator: +
+_search_url: https://www.hentai-foundry.com/pictures/user/%tags%/scraps/page/%index%
+_tag_classnames_to_namespaces: {awdaw: '', creator: creator, rating: rating, title: title}
+_thumb_classname: thumb
