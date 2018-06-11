@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: ''
+_name: neko-booru
+_search_separator: '%20'
+_search_url: https://neko-booru.com/post/list/%tags%/%index%
+_tag_classnames_to_namespaces: {dsfsdfdsf: creator, fdssfdfsd: series, fdssfdsd: '',
+  sdaasddas: character, sdfsdfsdf: rating}
+_thumb_classname: shm-thumb-link
