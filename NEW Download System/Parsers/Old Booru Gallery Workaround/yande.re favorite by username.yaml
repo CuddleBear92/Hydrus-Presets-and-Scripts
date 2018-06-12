@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: ''
+_name: yande.re Favorites by User
+_search_separator: +
+_search_url: http://yande.re/post?page=%index%&tags=vote:3:%tags%+order:vote
+_tag_classnames_to_namespaces: {rating: rating, tag-type-artist: creator, tag-type-character: character,
+  tag-type-circle: circle, tag-type-copyright: series, tag-type-faults: meta, tag-type-general: ''}
+_thumb_classname: thumb
