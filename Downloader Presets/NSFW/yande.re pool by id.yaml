@@ -6,5 +6,5 @@ _name: yande.re pool by id (nsfw)
 _search_separator: +
 _search_url: https://yande.re/pool/show/%tags%
 _tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
-  tag-type-circle: circle, tag-type-copyright: series, tag-type-faults: meta, tag-type-general: ''}
+  tag-type-circle: circle, tag-type-character: character, tag-type-copyright: series, tag-type-faults: meta, tag-type-general: ''}
 _thumb_classname: thumb

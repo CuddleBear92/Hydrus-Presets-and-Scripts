@@ -6,5 +6,5 @@ _name: yande.re popular by year
 _search_separator: '&'
 _search_url: http://yande.re/post/popular_by_month?month=%index%&year=%tags%
 _tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-circle: circle,
-  tag-type-copyright: series, tag-type-faults: meta, tag-type-general: ''}
+  tag-type-copyright: series, tag-type-character: character, tag-type-faults: meta, tag-type-general: ''}
 _thumb_classname: thumb
