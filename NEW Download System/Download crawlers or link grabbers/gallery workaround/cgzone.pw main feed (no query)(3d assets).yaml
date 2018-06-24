@@ -1,0 +1,9 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: ''
+_name: cgzone.pw main feed
+_search_separator: +
+_search_url: http://cgzone.pw/page/%index%/
+_tag_classnames_to_namespaces: {title: title}
+_thumb_classname: title
