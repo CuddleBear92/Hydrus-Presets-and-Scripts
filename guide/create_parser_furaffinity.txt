@@ -24,7 +24,7 @@ in classes like a post class which would be a post url.
 that will then be linked together with a parser that will look at the url in
 question and parse that info on how it will be processed.
 
->fa_1.png
+![](/guide/fa_1.png)
 
 - open `network` menu > `downloader definition` menu > `manage url class menu`
 - click `add` button
@@ -34,23 +34,24 @@ question and parse that info on how it will be processed.
 - set `network location` to match the example url (`www.furaffinity.net`)
 - set path to match the url
 - clear item on `parameters` section
->fa_3.png
+
+![](/guide/fa_3.png)
 
 complete result:
 
->fa_2.png
+![](/guide/fa_2.png)
 
 Note:
 
 some urls can be normalized down and shortened to remove things that isnt needed like this:
 
->fa_4.png
+![](/guide/fa_4.png)
 
 further reference http://hydrusnetwork.github.io/hydrus/help/downloader_url_classes.html
 
 ## Create Parser
 
->fa_1.png
+![](/guide/fa_1.png)
 
 - open `network` menu > `downloader definition` menu > `manage parsers`
 - click `add` button
@@ -75,18 +76,18 @@ it will just get the html code for that url as is
   - test parser in the formula window. The results should give the url
   - press `apply` to go back to the content parsers on the main window
 
-  >fa_5.png
+  ![](/guide/fa_5.png)
 - parse the metadata and tags to parse by adding another content parser. Its done the same way.
 
 namespace must not be unclassified. It is depend on sites.
 you can right click and inspect the keywords in your browser to gain the general tags.
 
->fa_6.png
->fa_7.png
+![](/guide/fa_6.png)
+![](/guide/fa_7.png)
 getting keywords tags
->fa_8.png
+![](/guide/fa_8.png)
 getting creator name
->fa_9.png
+![](/guide/fa_9.png)
 getting title
 
 ## Link Url class with Parser
