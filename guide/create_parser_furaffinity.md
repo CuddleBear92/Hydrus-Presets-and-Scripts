@@ -25,7 +25,8 @@ That will then be linked together with a parser that will look at the url in
 question and parse that info on how it will be processed.
 
 ![](/guide/fa_1.png)
-  *`downloaders definition` menu*
+
+*`downloaders definition` menu*
 
 - open `network` menu > `downloader definition` menu > `manage url class menu`
 - click `add` button
@@ -37,24 +38,28 @@ question and parse that info on how it will be processed.
 - clear item on `parameters` section
 
 ![](/guide/fa_3.png)
-  *items on parameters section which have to be removed*
+
+*items on parameters section which have to be removed*
 
 ![](/guide/fa_2.png)
-  *complete result*
+
+*complete result*
 
 Note:
 
 some urls can be normalized down and shortened to remove things that isn't needed like this:
 
 ![](/guide/fa_4.png)
-  *normalized and shortened url*
+
+*normalized and shortened url*
 
 further reference http://hydrusnetwork.github.io/hydrus/help/downloader_url_classes.html
 
 ## Create Parser
 
 ![](/guide/fa_1.png)
-  *`downloaders definition` menu*
+
+*`downloaders definition` menu*
 
 - open `network` menu > `downloader definition` menu > `manage parsers`
 - click `add` button
@@ -80,19 +85,27 @@ it will just get the html code for that url as is
   - press `apply` to go back to the content parsers on the main window
 
   ![](/guide/fa_5.png)
-    *`a` tag parser*
+
+  *`a` tag parser*
 - parse the metadata and tags to parse by adding another content parser. Its done the same way.
 
 namespace must not be unclassified. It is depend on sites.
 you can right click and inspect the keywords in your browser to gain the general tags.
 
 ![](/guide/fa_6.png)
-  *final result for getting file url*
+
+*final result for getting file url*
+
 ![](/guide/fa_7.png)
-  *getting keywords tags*
+
+*getting keywords tags*
+
 ![](/guide/fa_8.png)
-  *getting creator name*
+
+*getting creator name*
+
 ![](/guide/fa_9.png)
-  *getting title*
+
+*getting title*
 
 ## Link Url class with Parser
