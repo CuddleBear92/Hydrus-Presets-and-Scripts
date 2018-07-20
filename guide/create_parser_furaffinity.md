@@ -8,23 +8,24 @@ post url: https://www.furaffinity.net/view/28048695/
 
 Before creating url class you have to understand how url work and parts of it.
 
-see url for complete explanationhttps://en.wikipedia.org/wiki/URL
+see url for complete explanation: https://en.wikipedia.org/wiki/URL
 
-tldr url path components is part of the folder tree of the sites.
+tldr: url path components is part of the folder tree of the sites.
 A site is a folder and file structure in most cases after all.
 
-parameters section will handle url query. 
+Parameters section will handle url query. 
 In this case it will be removed because post url dont' contain any query
 string.
 
-url class tells the client how an url looks like and what type of url it is
+Url class tells the client how an url looks like and what type of url it is
 
-there is categories you put them in.
-in classes like a post class which would be a post url.
-that will then be linked together with a parser that will look at the url in
+There is categories you put them in.
+In classes like a post class which would be a post url.
+That will then be linked together with a parser that will look at the url in
 question and parse that info on how it will be processed.
 
 ![](/guide/fa_1.png)
+  *`downloaders definition` menu*
 
 - open `network` menu > `downloader definition` menu > `manage url class menu`
 - click `add` button
@@ -36,22 +37,24 @@ question and parse that info on how it will be processed.
 - clear item on `parameters` section
 
 ![](/guide/fa_3.png)
-
-complete result:
+  *items on parameters section which have to be removed*
 
 ![](/guide/fa_2.png)
+  *complete result*
 
 Note:
 
-some urls can be normalized down and shortened to remove things that isnt needed like this:
+some urls can be normalized down and shortened to remove things that isn't needed like this:
 
 ![](/guide/fa_4.png)
+  *normalized and shortened url*
 
 further reference http://hydrusnetwork.github.io/hydrus/help/downloader_url_classes.html
 
 ## Create Parser
 
 ![](/guide/fa_1.png)
+  *`downloaders definition` menu*
 
 - open `network` menu > `downloader definition` menu > `manage parsers`
 - click `add` button
@@ -77,17 +80,19 @@ it will just get the html code for that url as is
   - press `apply` to go back to the content parsers on the main window
 
   ![](/guide/fa_5.png)
+    *`a` tag parser*
 - parse the metadata and tags to parse by adding another content parser. Its done the same way.
 
 namespace must not be unclassified. It is depend on sites.
 you can right click and inspect the keywords in your browser to gain the general tags.
 
 ![](/guide/fa_6.png)
+  *final result for getting file url*
 ![](/guide/fa_7.png)
-getting keywords tags
+  *getting keywords tags*
 ![](/guide/fa_8.png)
-getting creator name
+  *getting creator name*
 ![](/guide/fa_9.png)
-getting title
+  *getting title*
 
 ## Link Url class with Parser
