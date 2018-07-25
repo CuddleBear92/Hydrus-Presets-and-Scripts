@@ -1,0 +1,9 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: ''
+_name: furaffinity.net scraps by username
+_search_separator: +
+_search_url: https://www.furaffinity.net/scraps/%tags%/%index%
+_tag_classnames_to_namespaces: {}
+_thumb_classname: t-image
