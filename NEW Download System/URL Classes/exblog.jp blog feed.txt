@@ -1,0 +1,1 @@
+[50, "exblog.jp blog feed", 4, ["a3111940be73fbe05afa3b09f8e1bb3354bd0847fcf3cfde5767271d866fda4b", 3, "https", "exblog.jp", true, true, [26, 1, []], [21, 1, [[], [], [], []]], [55, 1, [[], "https://hostname.com/post/page.php?id=123456&s=view"]], true, true, "https://pompomtengusa.exblog.jp/"]]
