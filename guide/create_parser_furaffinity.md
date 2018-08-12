@@ -109,3 +109,11 @@ you can right click and inspect the keywords in your browser to gain the general
 *getting title*
 
 ## Link Url class with Parser
+
+- open url class link
+- double click on post url entry
+- select the parser
+- press `apply` button
+
+![](/guide/fa_10.png)
+*linked post url and post parser*
