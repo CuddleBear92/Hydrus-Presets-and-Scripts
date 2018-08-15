@@ -6,6 +6,6 @@ _name: 3dbooru (behoimi.org)
 _search_separator: +
 _search_url: http://www.behoimi.org/post/index?tags=%tags%&commit=Search&page=%index%
 _tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
-  tag-type-copyright: series, tag-type-general: '', tag-type-model: idol, tag-type-photo_set: photo
-    set}
+  tag-type-copyright: series, tag-type-general: '', tag-type-model: person, tag-type-photo_set: photo
+    set, doesntmatter: site, doesntmatter: booru, doesntmatter: photo_set, doesntmatter: rating}
 _thumb_classname: thumb
