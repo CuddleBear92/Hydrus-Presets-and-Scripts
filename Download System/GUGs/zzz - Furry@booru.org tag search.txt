@@ -1,0 +1,1 @@
+[69, "zzz - Furry@booru.org tag search", 1, ["cb1612f90b3f44a1181a7b722e199f5c90d9926eeb80f7e1e85510d2408c9e05", "http://furry.booru.org/index.php?page=post&s=list&tags=%tags%&pid=0", "%tags%", "+", "search tags", "blue_eyes blonde_hair"]]

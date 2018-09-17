@@ -1,0 +1,1 @@
+[69, "zzz - Gravity Falls@booru.org tag search", 1, ["203d2226ec229458b663bc0f794d82168560a9786db667c8195db584ecec816f", "https://gravityfalls.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]
