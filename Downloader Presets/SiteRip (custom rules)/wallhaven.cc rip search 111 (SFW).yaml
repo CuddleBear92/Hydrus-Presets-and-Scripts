@@ -1,9 +1,0 @@
-!Booru
-_advance_by_page_num: true
-_image_data: null
-_image_id: wallpaper
-_name: wallhaven.cc rip search 111 (SFW)
-_search_separator: +
-_search_url: https://alpha.wallhaven.cc/search?q=&search_image=&categories=%tags%&purity=100&sorting=date_added&order=desc&page=%index%
-_tag_classnames_to_namespaces: {tagname: ''}
-_thumb_classname: preview
