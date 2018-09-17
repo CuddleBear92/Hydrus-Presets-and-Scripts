@@ -1,0 +1,1 @@
+[69, "pixiv artist lookup", 1, ["3de5e0f27226309911576f9d63b82bf4ed8f9d02e21a67ff3a96582e0bdd21c8", "https://www.pixiv.net/member_illust.php?id=%artist%&type=all&p=1", "%artist%", " ", "artist id", "115625"]]
