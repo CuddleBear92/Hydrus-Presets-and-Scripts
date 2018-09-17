@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: View larger version
+_image_id: null
+_name: konachan.net (SFW)
+_search_separator: +
+_search_url: http://konachan.net/post?page=%index%&tags=%tags%
+_tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
+  tag-type-circle: circle, tag-type-copyright: series, tag-type-general: '', tag-type-style: meta}
+_thumb_classname: thumb

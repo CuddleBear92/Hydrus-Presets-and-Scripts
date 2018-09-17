@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: View larger version
+_image_id: null
+_name: yande.re popular by month
+_search_separator: '&'
+_search_url: http://yande.re/post/popular_by_month?month=%index%&year=%tags%
+_tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-circle: circle,
+  tag-type-copyright: series,  tag-type-character: character, tag-type-faults: meta, tag-type-general: ''}
+_thumb_classname: thumb

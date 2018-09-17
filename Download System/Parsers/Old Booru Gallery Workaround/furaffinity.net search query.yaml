@@ -1,0 +1,9 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: ''
+_name: furaffinity.net search query
+_search_separator: +
+_search_url: https://www.furaffinity.net/search/?q=%tags%&page=%index%
+_tag_classnames_to_namespaces: {awda: '', creator: creator}
+_thumb_classname: t-image

@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: false
+_image_data: Original image
+_image_id: null
+_name: xbooru pool by id (NSFW)
+_search_separator: +
+_search_url: http://xbooru.com/index.php?page=pool&s=show&id=%tags%
+_tag_classnames_to_namespaces: {tag-type-artist: creator, tag-type-character: character,
+  tag-type-copyright: series, tag-type-general: ''}
+_thumb_classname: thumb

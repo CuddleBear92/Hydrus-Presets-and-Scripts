@@ -1,0 +1,1 @@
+[69, "inkbunny artist scraps search", 1, ["50a33dd63be1477a28ec7fc65ac12666f18c1576fd83875851b1b0372d1513a9", "https://inkbunny.net/scraps/%tags%/1/", "%tags%", "+", "artistname", "Watsup"]]

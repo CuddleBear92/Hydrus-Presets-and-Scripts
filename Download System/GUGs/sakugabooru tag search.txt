@@ -1,0 +1,1 @@
+[69, "sakugabooru tag search", 1, ["6a2a1ce265a745ddc2b55a02c21675ad6e1b3eaef007cdb672f294d8a22aa3c9", "https://www.sakugabooru.com/post?tags=%tags%&page=1", "%tags%", "+", "search tags", "naruto debris"]]

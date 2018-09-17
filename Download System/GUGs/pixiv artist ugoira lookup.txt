@@ -1,0 +1,1 @@
+[69, "pixiv artist ugoira lookup", 1, ["169ec1ce62cbeafd1fcab5ebdbaca75064973160a7fd314c4cffd0504dbb2477", "https://www.pixiv.net/member_illust.php?id=%artist%&type=ugoira&p=1", "%artist%", " ", "artist id", "115625"]]

@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: main_image
+_name: wh40kart.im
+_search_separator: '%20'
+_search_url: http://wh40kart.im/post/list/%tags%/%index%
+_tag_classnames_to_namespaces: {tag_name: '', tag_name tautor: creator, tag_name tchar: character,
+  tag_name tgroup: series, tag_name theEmperor: character}
+_thumb_classname: thumb

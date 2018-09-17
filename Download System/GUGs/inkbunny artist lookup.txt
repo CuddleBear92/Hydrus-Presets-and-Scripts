@@ -1,0 +1,1 @@
+[69, "inkbunny artist lookup", 1, ["fcc5f5b8bc3e03633a567bc02a1c491c568f44e9754a9c31a5cabe8a531acbbd", "https://inkbunny.net/gallery/%artist%/1", "%artist%", " ", "artist username", "Watsup"]]

@@ -1,0 +1,1 @@
+[69, "safebooru tag search", 1, ["c52d3b91991f149fb74adf9222ae467bee44d05bf7954e677cb2d63b44474474", "https://safebooru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "blue_eyes blonde_hair"]]

@@ -1,0 +1,9 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: wallpaper
+_name: wallhaven.cc (SFW/Sketchy)
+_search_separator: +
+_search_url: https://alpha.wallhaven.cc/search?q=%tags%&categories=111&purity=110&page=%index%
+_tag_classnames_to_namespaces: {tagname: ''}
+_thumb_classname: preview

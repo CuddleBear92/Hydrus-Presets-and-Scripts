@@ -1,0 +1,1 @@
+[69, "rule34.xxx tag search", 1, ["08cb6cd2b0647537930057ecc13972ee96abcc70bbe685f34f0c77705cfce3fe", "https://rule34.xxx/index.php?page=post&s=list&tags=%tags%&pid=0", "%tags%", "+", "search tags", "blue_eyes blonde_hair"]]

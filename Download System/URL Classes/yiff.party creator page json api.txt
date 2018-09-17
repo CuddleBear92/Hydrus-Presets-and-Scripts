@@ -1,0 +1,1 @@
+[50, "yiff.party creator page json api", 4, ["ef0c11d1ed57827096d7459f9cb122491c66c0a83f63d60b719b462c8c3d2fe5", 4, "https", "yiff.party", false, false, [26, 1, [[51, 1, [2, ".+\\.json", null, null, "2885342.json"]]]], [21, 1, [[], [], [], []]], [55, 1, [[], "https://yiff.party/2885342.json"]], true, true, "https://yiff.party/2885342.json"]]

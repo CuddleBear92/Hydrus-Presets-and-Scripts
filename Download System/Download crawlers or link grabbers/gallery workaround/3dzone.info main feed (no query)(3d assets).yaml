@@ -1,0 +1,9 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: ''
+_name: 3dzone.info main feed
+_search_separator: +
+_search_url: https://3dzone.link/?vpage=%index%
+_tag_classnames_to_namespaces: {awdaw: '', site: site, title: title}
+_thumb_classname: pt-cv-title
