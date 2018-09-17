@@ -1,0 +1,1 @@
+[69, "zzz - punishedsquad@booru.org tag search", 1, ["be25392c40458e974dceb338a61032aa0f19b1219a41f301ad8e83232366b169", "https://punishedsquad.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

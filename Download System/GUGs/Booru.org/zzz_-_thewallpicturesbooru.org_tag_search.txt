@@ -1,0 +1,1 @@
+[69, "zzz - thewallpictures@booru.org tag search", 1, ["0a03e1c73b79954727eb15f59f4f9c0d49ce041cfe654950531b8aed1f3104bd", "https://thewallpictures.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

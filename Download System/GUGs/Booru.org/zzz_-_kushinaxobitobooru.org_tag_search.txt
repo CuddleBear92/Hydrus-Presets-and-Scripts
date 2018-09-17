@@ -1,0 +1,1 @@
+[69, "zzz - kushinaxobito@booru.org tag search", 1, ["cf7a0ec3b1e3bc9fa0003c5e2b5b81764e5d641a7bc4f27115afc1546649225b", "https://kushinaxobito.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

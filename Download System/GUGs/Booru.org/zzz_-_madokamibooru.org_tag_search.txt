@@ -1,0 +1,1 @@
+[69, "zzz - madokami@booru.org tag search", 1, ["8c6bc320452700136375c55b1b72d3e6d52553cb812305c27e70e1de8ee0725e", "https://madokami.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

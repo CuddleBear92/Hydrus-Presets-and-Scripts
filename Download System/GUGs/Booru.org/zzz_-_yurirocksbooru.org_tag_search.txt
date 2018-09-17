@@ -1,0 +1,1 @@
+[69, "zzz - yurirocks@booru.org tag search", 1, ["4e37150f22aa961a19bcf59ebda9355b429c85a3d281d66cfd30cb9dac24a949", "https://yurirocks.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

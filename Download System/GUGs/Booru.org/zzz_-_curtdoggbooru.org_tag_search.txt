@@ -1,0 +1,1 @@
+[69, "zzz - curtdogg@booru.org tag search", 1, ["369a6f056f6e3b8e99facd6f142419e3fa7b75324cc951a724e20a7bf4a8c110", "https://curtdogg.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

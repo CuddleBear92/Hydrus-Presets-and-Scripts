@@ -1,0 +1,1 @@
+[69, "zzz - palutenafeet@booru.org tag search", 1, ["455d62a569f593ee6d7f87cf7e850607c17fecd388deb107c6c6bb37d15efc82", "https://palutenafeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

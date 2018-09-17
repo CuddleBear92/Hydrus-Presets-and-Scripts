@@ -1,0 +1,1 @@
+[69, "zzz - hablamosespanol@booru.org tag search", 1, ["d751f4aff072d13dbac0411c28d4c5e7bc0c0141ca7f254e09b7956a28d4f249", "https://hablamosespanol.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - shitstormchest@booru.org tag search", 1, ["fda563d9d084d885bddb0905419fdc3a093148fa3087d7fba5246557b0ebb9f3", "https://shitstormchest.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

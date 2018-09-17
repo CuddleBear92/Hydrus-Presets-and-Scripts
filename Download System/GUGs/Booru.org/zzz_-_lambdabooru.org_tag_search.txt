@@ -1,0 +1,1 @@
+[69, "zzz - lambda@booru.org tag search", 1, ["a175796f11ac85941aba107a300a2cdb2c7b4a4f0646d54176eaa5cc41a8b8c3", "https://lambda.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

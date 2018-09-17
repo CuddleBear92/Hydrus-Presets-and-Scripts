@@ -1,0 +1,1 @@
+[69, "zzz - bareandcovered@booru.org tag search", 1, ["bc0b233caad4b69c51a2d3624dd6cd0e72f52fbaee316d9791051054acd88cc9", "https://bareandcovered.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

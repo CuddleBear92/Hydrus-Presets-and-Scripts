@@ -1,0 +1,1 @@
+[69, "zzz - windowstile@booru.org tag search", 1, ["974c417728ee8bed303ba7be962d5ce502aec2f5da06d3b1a4f6cee63575cb22", "https://windowstile.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - blackjack@booru.org tag search", 1, ["de9b613013623ff8f79f9fc86d72377b14b3265ea4eb98179e524c42c585a4e4", "https://blackjack.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

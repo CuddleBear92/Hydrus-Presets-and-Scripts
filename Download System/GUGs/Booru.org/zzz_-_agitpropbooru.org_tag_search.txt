@@ -1,0 +1,1 @@
+[69, "zzz - agitprop@booru.org tag search", 1, ["3285152fdfd370a0d360308e254e9914ffd5c8cabe306fd790114d08c0b2c04e", "https://agitprop.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - g-goes-wild@booru.org tag search", 1, ["bdb0c6e44294c8272433c791b1ad1916d24c28eba30ff9c31d660f9d0c2830b4", "https://g-goes-wild.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - korea@booru.org tag search", 1, ["d79b077a774f24070b7122aeb0885aef9f370e170acc40e9f7bbfa063b535797", "https://korea.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

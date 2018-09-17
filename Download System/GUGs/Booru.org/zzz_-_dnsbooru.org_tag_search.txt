@@ -1,0 +1,1 @@
+[69, "zzz - dns@booru.org tag search", 1, ["d2656b0d10702b91e7c723e642d50e696a6f70ce4c6ada1cab312478138a09b8", "https://dns.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - squish@booru.org tag search", 1, ["df9dea8061b18246dcd74e6c865dcce0b0cba5b73eb59b0caed034423e5b99d3", "https://squish.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

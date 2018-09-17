@@ -1,0 +1,1 @@
+[69, "zzz - osugame@booru.org tag search", 1, ["6d70f40aa8566c9123b21caf80595253d8eb5673dd4ab6413dcb6a29992b4a96", "https://osugame.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

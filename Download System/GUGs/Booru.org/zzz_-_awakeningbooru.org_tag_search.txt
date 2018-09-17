@@ -1,0 +1,1 @@
+[69, "zzz - awakening@booru.org tag search", 1, ["fa5fbb6394d279e0c434a6210e2c207de3a11e410e426125ebec150915cb4fc3", "https://awakening.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

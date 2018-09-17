@@ -1,0 +1,1 @@
+[69, "zzz - wowleague@booru.org tag search", 1, ["d8575ea7c2177154ebf4f16c1dfbe4b56b0505c0bd1c0a4efdd00cd666b89415", "https://wowleague.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

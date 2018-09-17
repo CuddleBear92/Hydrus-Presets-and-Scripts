@@ -1,0 +1,1 @@
+[69, "zzz - imas-costumes@booru.org tag search", 1, ["6c66fdd6930e6a27a75f564567db521991f2fe7cfbbf6ea4744780d4cf40e80f", "https://imas-costumes.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

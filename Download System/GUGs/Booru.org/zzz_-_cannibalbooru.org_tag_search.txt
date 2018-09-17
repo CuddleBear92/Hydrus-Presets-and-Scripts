@@ -1,0 +1,1 @@
+[69, "zzz - cannibal@booru.org tag search", 1, ["e16ea629198f250eb8b073fdb1fbfcb84697deceac5a340985531cd53dac26c5", "https://cannibal.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

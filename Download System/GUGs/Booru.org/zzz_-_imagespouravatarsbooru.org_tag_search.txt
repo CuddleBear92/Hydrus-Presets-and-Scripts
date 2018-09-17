@@ -1,0 +1,1 @@
+[69, "zzz - imagespouravatars@booru.org tag search", 1, ["ba73e3d12c0182b3ea05987c743944aa1d9465eb208dfdf1895e52b1a80e05fc", "https://imagespouravatars.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

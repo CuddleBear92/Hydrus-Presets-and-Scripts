@@ -1,0 +1,1 @@
+[69, "zzz - kawaii@booru.org tag search", 1, ["91b8bccfaca5a2fa92ce6a422ee7f238efc4dd312a2b55d1bc050bd8f4b33f0a", "https://kawaii.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

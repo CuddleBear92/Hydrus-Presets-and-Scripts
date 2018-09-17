@@ -1,0 +1,1 @@
+[69, "zzz - astral@booru.org tag search", 1, ["0530633adf3b6dd840a991f7242b5da2b8d3967d03f832f58b29a903e3660081", "https://astral.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - magestream@booru.org tag search", 1, ["5a4c5f6316971e949e64be6a78cff6043f15a1e16a91e7771cceec2a167355d0", "https://magestream.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - foldericons@booru.org tag search", 1, ["214619cf73e5bc4c1ce9b6ac426764938b15b1eda322d29e18391083adc507cb", "https://foldericons.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

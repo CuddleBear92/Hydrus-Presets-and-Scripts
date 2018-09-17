@@ -1,0 +1,1 @@
+[69, "zzz - fapchan@booru.org tag search", 1, ["d43f431204a3bde59431d54291def4e6b6c8e6f18f29df7324ccc1058e08eaa4", "https://fapchan.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

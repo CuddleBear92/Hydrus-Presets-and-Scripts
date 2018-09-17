@@ -1,0 +1,1 @@
+[69, "zzz - japancosplay@booru.org tag search", 1, ["d3fb7c48a85b0320ebadd6a68c2026e19da5460d14e848862f07422d7eadb4c8", "https://japancosplay.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

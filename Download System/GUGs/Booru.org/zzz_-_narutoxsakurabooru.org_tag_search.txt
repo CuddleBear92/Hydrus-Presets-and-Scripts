@@ -1,0 +1,1 @@
+[69, "zzz - narutoxsakura@booru.org tag search", 1, ["ee8f78667f95f83cf212ac7515e26acf3e8a2dea110bd416c4770c26f7b8ce39", "https://narutoxsakura.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - shoujo-ai@booru.org tag search", 1, ["02501a77394e7a315afde866002c129ec43027c8f32de94b95b2518c9dede142", "https://shoujo-ai.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

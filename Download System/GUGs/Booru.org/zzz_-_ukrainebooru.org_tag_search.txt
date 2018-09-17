@@ -1,0 +1,1 @@
+[69, "zzz - ukraine@booru.org tag search", 1, ["09fecb92009eae88c96293554c7d533688e8e2e16f7fc80d7ec917847c0df39a", "https://ukraine.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

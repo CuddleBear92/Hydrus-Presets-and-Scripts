@@ -1,0 +1,1 @@
+[69, "zzz - nintendofart@booru.org tag search", 1, ["0723ebfdee8bcdf9c18ec9eacd7fe8520f482b0a3d7c2be9dc67a03a8d53c276", "https://nintendofart.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - historicalmaps@booru.org tag search", 1, ["5d9d08422c63855fe6d03eca6913fc417560b783895e126a0e65984413df7b46", "https://historicalmaps.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

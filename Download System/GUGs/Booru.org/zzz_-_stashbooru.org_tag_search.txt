@@ -1,0 +1,1 @@
+[69, "zzz - stash@booru.org tag search", 1, ["db6f2c7e41a42e26127c8a1f2a8b4b7c795a0dce0d0cd87b16970707a0d9edac", "https://stash.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

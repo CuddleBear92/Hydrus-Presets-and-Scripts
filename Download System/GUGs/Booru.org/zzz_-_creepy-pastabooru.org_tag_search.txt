@@ -1,0 +1,1 @@
+[69, "zzz - creepy-pasta@booru.org tag search", 1, ["4c51495b358a8221c0eb4862454a98b4e68ab20b9f706c5346336cc07274b0dd", "https://creepy-pasta.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

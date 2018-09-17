@@ -1,0 +1,1 @@
+[69, "zzz - celebrity@booru.org tag search", 1, ["53b9a4a88a96f563132a77b3e325ea94a31e71a401d3a77862fa2b4ee391d75f", "https://celebrity.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - wallpaper@booru.org tag search", 1, ["f768f52617c38c3bd325d9c493e19fef7a07d78df8221ac8b2c1654f02876a44", "https://wallpaper.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - quasar@booru.org tag search", 1, ["416e4c283dcfe57062ef65919786b9f41a667b6ea349a2b11370f3718d0f8ce0", "https://quasar.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - oldanime@booru.org tag search", 1, ["8eb85a3d79a91cb97de63e2fab161b0273f46276b79fa5b120678981ba6d00fd", "https://oldanime.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

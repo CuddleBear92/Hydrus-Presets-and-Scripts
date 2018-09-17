@@ -1,0 +1,1 @@
+[69, "zzz - hotsushi-kun@booru.org tag search", 1, ["7ef564f3cdd90a44600d83c2f8ba0ae10ec187cc152231ef9eee8de1d371b308", "https://hotsushi-kun.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

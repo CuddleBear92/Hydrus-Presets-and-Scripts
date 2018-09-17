@@ -1,0 +1,1 @@
+[69, "zzz - schwein@booru.org tag search", 1, ["be55651c5baef14f6a1d7bcec2ce52aefd25b0f3c45d3cd6d39283c26fee0367", "https://schwein.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

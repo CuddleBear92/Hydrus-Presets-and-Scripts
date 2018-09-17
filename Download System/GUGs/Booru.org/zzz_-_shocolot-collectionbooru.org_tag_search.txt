@@ -1,0 +1,1 @@
+[69, "zzz - shocolot-collection@booru.org tag search", 1, ["ceb309c06b38c1ef35d643d78c6e4e416f73670c54c79a0c4c01f7869bc8ea51", "https://shocolot-collection.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

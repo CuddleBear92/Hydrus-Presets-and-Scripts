@@ -1,0 +1,1 @@
+[69, "zzz - pawtucket@booru.org tag search", 1, ["dad2b2d460773b9bc67692a0dffa60843b82d31bb5483302e2d31c21ad4ac0f0", "https://pawtucket.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

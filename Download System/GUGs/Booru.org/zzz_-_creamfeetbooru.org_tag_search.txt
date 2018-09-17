@@ -1,0 +1,1 @@
+[69, "zzz - creamfeet@booru.org tag search", 1, ["9745d4443ca8593c10b09c34c208d46850033cd73bae8256b03fc04193e4956d", "https://creamfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - ecchi-collecty@booru.org tag search", 1, ["b6a5e5924bceb56b3afbeaadbcc73061c61c84c3fd3cb79e1853aecf15afc6ae", "https://ecchi-collecty.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

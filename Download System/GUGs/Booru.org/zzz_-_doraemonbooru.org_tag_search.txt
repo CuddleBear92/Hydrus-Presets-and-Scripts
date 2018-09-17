@@ -1,0 +1,1 @@
+[69, "zzz - doraemon@booru.org tag search", 1, ["cb81d0661a3eca13a4382aa2c868209e4f3f6cf18f555810a3bca40799a30400", "https://doraemon.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

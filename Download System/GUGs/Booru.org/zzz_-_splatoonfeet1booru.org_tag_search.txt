@@ -1,0 +1,1 @@
+[69, "zzz - splatoonfeet1@booru.org tag search", 1, ["3ad5b5c0d3137c841260285c1e6e21b285a305f1118739c78c5edf7d49b62dec", "https://splatoonfeet1.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

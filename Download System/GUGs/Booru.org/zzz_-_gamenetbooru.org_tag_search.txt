@@ -1,0 +1,1 @@
+[69, "zzz - gamenet@booru.org tag search", 1, ["8ba515b077ac10991c5aa1bb0890d4fae829d92017bdb66b1be1d9db1d813824", "https://gamenet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

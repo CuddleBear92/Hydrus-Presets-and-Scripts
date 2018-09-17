@@ -1,0 +1,1 @@
+[69, "zzz - furlewd@booru.org tag search", 1, ["9ad6d5be587353e12f87bb73bfb5594c814cc325d36d9f0fdf31ab52d0f9e144", "https://furlewd.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

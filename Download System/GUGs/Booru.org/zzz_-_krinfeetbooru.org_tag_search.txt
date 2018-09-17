@@ -1,0 +1,1 @@
+[69, "zzz - krinfeet@booru.org tag search", 1, ["d1b9f396b09616dc791ef60213e7352cdcbb9edad953f95847571a8e13571e56", "https://krinfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

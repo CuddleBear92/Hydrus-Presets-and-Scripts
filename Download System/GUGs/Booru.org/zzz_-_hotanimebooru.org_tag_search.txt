@@ -1,0 +1,1 @@
+[69, "zzz - hotanime@booru.org tag search", 1, ["f9f98b2e652cbed1db8521a97f37fbae05dce6258cf5a934308b06b7e0dabc73", "https://hotanime.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

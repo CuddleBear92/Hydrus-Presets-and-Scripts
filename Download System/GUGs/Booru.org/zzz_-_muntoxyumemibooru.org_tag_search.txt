@@ -1,0 +1,1 @@
+[69, "zzz - muntoxyumemi@booru.org tag search", 1, ["96f8e047c606f3ef38064b970ad423dcdd6a2d0dd3157fa1bc742ceddac54077", "https://muntoxyumemi.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

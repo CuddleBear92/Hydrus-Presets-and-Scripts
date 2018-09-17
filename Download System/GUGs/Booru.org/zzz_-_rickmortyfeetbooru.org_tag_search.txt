@@ -1,0 +1,1 @@
+[69, "zzz - rickmortyfeet@booru.org tag search", 1, ["fc89cdfefd2a1195d8774c8e123ce7fa01830053be03de6fdfd65df475b669ec", "https://rickmortyfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

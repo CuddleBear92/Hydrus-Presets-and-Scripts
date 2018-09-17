@@ -1,0 +1,1 @@
+[69, "zzz - animeprints@booru.org tag search", 1, ["89ef0c214a4c8cbef36a324d2ed6abfc82e9193f2ce40f4c5ce6d3556850a453", "https://animeprints.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - kirbyhell@booru.org tag search", 1, ["a436d7ac118758e6267aea61219d3975ae98436fdab1fbc4fd7901c3f3f6928d", "https://kirbyhell.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

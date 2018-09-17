@@ -1,0 +1,1 @@
+[69, "zzz - tripchan-sfw@booru.org tag search", 1, ["7a9c660dfa5bc4732706ea04ad419d34b3ceff7b960ff5d2af4e911fedaa8ba7", "https://tripchan-sfw.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

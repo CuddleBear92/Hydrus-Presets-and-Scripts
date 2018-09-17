@@ -1,0 +1,1 @@
+[69, "zzz - fartin@booru.org tag search", 1, ["23cdf10fc45fcec24e134409b458cb78f2b344d75e0c2e99f1cca0cfe163d8f8", "https://fartin.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

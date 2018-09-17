@@ -1,0 +1,1 @@
+[69, "zzz - vocaloidcosplay@booru.org tag search", 1, ["71e2b3352f46307aef1068c1fe13110c4fc9f6880b0b58f906950125d8968db4", "https://vocaloidcosplay.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

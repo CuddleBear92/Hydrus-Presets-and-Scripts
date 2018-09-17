@@ -1,0 +1,1 @@
+[69, "zzz - ns4w@booru.org tag search", 1, ["642516af907a86c50b048fc8e8734c63aa9289c5c585f0c2f6e86d55e7e2d4ab", "https://ns4w.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - mashasmemes@booru.org tag search", 1, ["2f98d705eb87b9350dbca78d254152f708615c9cc1d2b5e7cfbb4a6a546dfaf2", "https://mashasmemes.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

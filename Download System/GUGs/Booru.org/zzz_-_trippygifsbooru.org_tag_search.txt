@@ -1,0 +1,1 @@
+[69, "zzz - trippygifs@booru.org tag search", 1, ["23cb52d55fe8937da4c9627f27c349d7fa60c57dbd6773bc3b1f423c48a223ad", "https://trippygifs.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - coloredfeet@booru.org tag search", 1, ["a3a9b8ac770a7cdeeb3d7946474455a6b33bd67ae6c64176bee27f0d8fa0f90e", "https://coloredfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

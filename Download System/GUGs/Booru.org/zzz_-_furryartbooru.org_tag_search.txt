@@ -1,0 +1,1 @@
+[69, "zzz - furryart@booru.org tag search", 1, ["9c4aa3a60262bb9e2e30f857dcc9c5553e9e0ec47bdd52cf63a268ac3fd9e6b2", "https://furryart.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

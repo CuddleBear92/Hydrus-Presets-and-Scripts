@@ -1,0 +1,1 @@
+[69, "zzz - cosplayrutest@booru.org tag search", 1, ["3767b15d97521ab878a0633d6681947a2f9e6b7302dd97289c1ebaa1ee9c2eed", "https://cosplayrutest.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - scratchandsniff@booru.org tag search", 1, ["c0bdf97de189b433823473925ab1b1850daebecabc20eafeea4f7ccb87c51006", "https://scratchandsniff.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

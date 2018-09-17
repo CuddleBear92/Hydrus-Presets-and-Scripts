@@ -1,0 +1,1 @@
+[69, "zzz - champagnefurry@booru.org tag search", 1, ["8e0ad7fe7399c2fa0a520564b3b22c9c3f5f506fc6b675bce8b501859c0a7f4a", "https://champagnefurry.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

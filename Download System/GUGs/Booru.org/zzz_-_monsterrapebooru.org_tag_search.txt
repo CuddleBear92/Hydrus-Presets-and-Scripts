@@ -1,0 +1,1 @@
+[69, "zzz - monsterrape@booru.org tag search", 1, ["f6382a45c8561741b3658268afb98dbdda4c4ef38cfbe38f13636cb5ec00b570", "https://monsterrape.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

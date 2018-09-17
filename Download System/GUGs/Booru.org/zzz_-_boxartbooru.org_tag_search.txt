@@ -1,0 +1,1 @@
+[69, "zzz - boxart@booru.org tag search", 1, ["16bba9bd45a5de835bf1540b1a1c57b25a23b595e7aacd8d2c700b7759ed3fcd", "https://boxart.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - kpopbrasil@booru.org tag search", 1, ["bcb46c6ad81106ac56ef92e9ba730685aed5b5140e931bcae0bf0e242617899a", "https://kpopbrasil.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

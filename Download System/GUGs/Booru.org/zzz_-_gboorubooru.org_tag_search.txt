@@ -1,0 +1,1 @@
+[69, "zzz - gbooru@booru.org tag search", 1, ["d8dc7fa077f2e1f044fd277a12500d1dc9d5c7cddebe286016cacae1f4137e14", "https://gbooru.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - doggylove@booru.org tag search", 1, ["0f5a1fec9861ad03df2c5eecaff84d00c840ea584f37fde45424598c3b84a04f", "https://doggylove.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

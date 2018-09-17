@@ -1,0 +1,1 @@
+[69, "zzz - cookie@booru.org tag search", 1, ["8e31d6238bb38ba26d4aa1e0cf711174182751c948aa794ed49c89a5731dd2ae", "https://cookie.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

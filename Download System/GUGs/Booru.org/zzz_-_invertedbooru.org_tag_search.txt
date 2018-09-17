@@ -1,0 +1,1 @@
+[69, "zzz - inverted@booru.org tag search", 1, ["3c3fd493798f3a81f88ea3dcdad5d1a0f867810d8cdcb7f6b9b146a552a38171", "https://inverted.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - shrekchan@booru.org tag search", 1, ["d2442ff4ebb164104020d62823786b8752a5f4e60240d89a7fc5fd84a49c04c1", "https://shrekchan.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,0 +1,1 @@
+[69, "zzz - madoka@booru.org tag search", 1, ["febcd3951d71d0a95428c8a24db06cf04d1e6de4daaffe2b086f2a4126f9777c", "https://madoka.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

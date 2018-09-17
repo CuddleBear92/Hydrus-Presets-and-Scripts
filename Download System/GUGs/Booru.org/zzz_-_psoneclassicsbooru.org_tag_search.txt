@@ -1,0 +1,1 @@
+[69, "zzz - psoneclassics@booru.org tag search", 1, ["6ddafc65ffc169cbce7b4823de5f4ed6b3db7a4082ec8bf4a58e2272b722b395", "https://psoneclassics.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

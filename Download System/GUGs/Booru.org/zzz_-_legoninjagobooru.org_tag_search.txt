@@ -1,0 +1,1 @@
+[69, "zzz - legoninjago@booru.org tag search", 1, ["5d53ba4f4565ec005a89b83b43e3ee1dde0120dc6b6bd2b4c2c1eed07c6e5b2f", "https://legoninjago.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]
