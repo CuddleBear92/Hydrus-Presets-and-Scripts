@@ -1,0 +1,1 @@
+[70, "hentai foundry artist lookup", 1, ["cf0293e9e20867fcc6cd455285ad8410686d37f4651985d1679d7b1418441c8c", "artist username", [["ae17d9e1802dea30fdbdb2964f765d8008073a621c2ae0471ee23a06cc78ac1a", "hentai foundry artist works lookup"], ["e384f277e70f41d7f70b5a53cf3a1d83b595dfa07f9d24f50d06101437eab600", "hentai foundry artist scraps lookup"]]]]
