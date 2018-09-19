@@ -1,0 +1,1 @@
+[69, "3dbooru (behoimi.org) pools by id", 1, ["ab797cac1db65f2fc6c2a72f69ed5cb609dcac878b9e2f9e5e1fff1c4017a516", "http://behoimi.org/pool/show/%poolid%", "%poolid%", "+", "pool id number", "6"]]
