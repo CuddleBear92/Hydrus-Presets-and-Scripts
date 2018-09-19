@@ -4,11 +4,11 @@ import re
 import os
 import sys
 
-input_file = './yiff.party favourites.txt'
-template = '[3, "0 yiff.party", 8, ["REPLACEME2", "yiff.party creator id"], [[54, 2, ["REPLACE1", true, 0, 0, false, 0, [67, 1, [26, 1, []]], [8, 8, [26, 1, []]]]]]]'
+input_file = './yiff.party_favourites.txt'
+template = '[3, "0 yiff.party", 8, [["7b7eafd51fe58946a87f49d502dacc760204d6c0c9a63475e7e143ebb4e21b4a", "yiff.party creator id"], [SUBS_HERE], [52, 1, [1, 86400, 1209600, [1, 2592000]]], 10000, 10000, false, [7, 3, [[true, true, null, null, null, null, null], false, [true, true, true]]], [6, 7, [false, false, [44, 1, []], [], true]], 0, "", true, true, true]]'
+sub_template = '[54, 2, ["ID_HERE", true, 0, 0, false, 0, [67, 1, [26, 1, []]], [8, 8, [26, 1, []]]]], '
 out_path = './'
 combined_out_file = 'yiff.party subscriptions.txt'
-filename_template = 'zzz_-_REPLACEME1booru.org_tag_search.txt'
 
 def gethex():
     if (sys.version_info < (3, 0)):
@@ -16,21 +16,15 @@ def gethex():
     else:
         return os.urandom(32).hex()
 
-combined_outf_str = '[3, "0 yiff.party", 8, ['
-for id in open(input_file):
-    id = id.strip()
-    match = re.search('\d{2,12}',id)
-    if len(id) > 0 and match:
-        id = match.group(1)
-        print(id)
-        result = template.replace("REPLACEME1",id).replace("REPLACEME2",gethex())
-        filename_result = filename_template.replace("REPLACEME1",id)
-        outf = open(out_path+'/'+filename_result,'w')
-        outf.write(result+'\n')
-        outf.flush()
-        outf.close()
-        combined_outf_str += result+', '
+line = open(input_file,'r').readline().strip()
+if line.startswith('['): line = line[1:]
+if line.endswith(']'): line = line[:-1]
+ids = [i.strip() for i in line.split(',')]
+subs_str = ''
+for i in ids:
+    subs_str = subs_str + sub_template.replace("ID_HERE", i)
+
 combined_outf = open(out_path+'/'+combined_out_file,'w')
-combined_outf.write(combined_outf_str[:-2]+']]')
+combined_outf.write(template.replace("SUBS_HERE",subs_str[:-2]))
 combined_outf.flush()
 combined_outf.close()

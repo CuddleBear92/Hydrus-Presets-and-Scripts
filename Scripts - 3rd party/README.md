@@ -8,5 +8,5 @@ It also has a blacklist to not process the same file again, can also set a flag 
 Full filename and folder name support on writeout.
 More archives can be supported if 7z supports the format.
 
-## (BROKEN, NEED HELP!) yiff.party subs
+## yiff.party subs
 Extracts yiff.party favorite exports (as exported from the site) and turns them into subscriptions for easy imports in Hydrus.
