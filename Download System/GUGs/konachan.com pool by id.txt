@@ -1,0 +1,1 @@
+[69, "konachan.com pool by id", 1, ["37547f46f258d01628210dbcc3efdd1989ff4fe674726a2f3cc87e38fbc3ab99", "http://konachan.com/pool/show/%poolid%", "%poolid%", "", "Pool ID Number", "436"]]
