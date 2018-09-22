@@ -1,0 +1,1 @@
+[69, "lolibooru.moe pool by id", 1, ["d9681e8c994a959b3dad15857e566f9a5294e3c6431dc65728e95f020629c55a", "https://lolibooru.moe/pool/show/%poolid%", "%poolid%", "", "Pool ID Number", "143"]]
