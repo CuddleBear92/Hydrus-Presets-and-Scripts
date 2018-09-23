@@ -15,3 +15,6 @@ This requires URL Classes for yiff.party creators to be set to GALLERY, a GUG to
 **NOTE** the API parser does no yet support inline files but we are working on this one.
 
 # **IMPORTANT** **DOUBLE CHECK YOUR SUBSCRIPTION SETTINGS AFTER IMPORT THAT THEY ARE TO YOUR LIKING AND NEEDS!**
+
+v0.02: Blacklists, rename old favorites export to the blacklist name listed in the script. By Default: `yiff_blacklist.txt`
+This will make it so it will not make subs of already exported favorites, only making new ones you might have added since the last export.
