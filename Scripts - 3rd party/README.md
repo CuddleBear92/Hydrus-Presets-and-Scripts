@@ -18,3 +18,7 @@ Extracts [yiff.party](https://yiff.party/) favorite exports (as exported from th
 A Browser Script for [TamperMonkey](https://tampermonkey.net/) [GreaseMonkey](https://www.greasespot.net/) you can find the original [HERE](https://github.com/Seedmanc/Booru-mass-uploader)
 This should be updated over time or can be by any user if they want to add support for more.
 Doing a [pull-request](https://github.com/Seedmanc/Booru-mass-uploader/pulls) on the original git can also be helpful for everyone so it updates semi-automatically for everyone.
+
+## IQDB_tagger
+A Python script that allows for bulk upload of images on iqdb though image recognition.
+This can output sidecar files next to the file for easy import or an url list for easy downloading of all data in Hydrus.
