@@ -60,9 +60,11 @@ __**Links**__
 # Patreon: https://www.patreon.com/hydrus_dev
 # e-mail: hydrus.admin@gmail.com ( @Hydrus Developer )
 
+Common Links:
+# IQDB_Tagger: https://github.com/rachmadaniHaryono/iqdb_tagger
+# MD5 queries: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/2.-How-to-fetch-tags-in-bulk-with-md5-hash
+
 Common Downloads:
 # Google Drive: https://drive.google.com/open?id=1LcaHuH_AuIjt6rgZKJSluYH0oVuiI_-I
 # Mega.nz: https://mega.nz/#F!s4QAFSSS!N-xuLHNH4IOd47sNEA__Xg
-# IQDB_Tagger: https://github.com/rachmadaniHaryono/iqdb_tagger
-# MD5 queries: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/2.-How-to-fetch-tags-in-bulk-with-md5-hash
 ```
