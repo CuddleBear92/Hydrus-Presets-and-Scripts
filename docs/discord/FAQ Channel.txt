@@ -6,8 +6,10 @@ It allows for easy management of tags for almost any file.
 But is made for file from the online web, like a booru or an imageboard.
 [My Question isn't covered in this shitty FAQ.]
 Use the Discord Search feature!
-[That did help me.]
+[That didn't help]
 Explorer the UI yourself and just TRY.
+[That didn't help]
+Then ask in #support_chat
 ```
 
 __**DOWNLOAD SYSTEM**__
@@ -29,7 +31,6 @@ Import under Network>Downloaders>Import Downloaders
 Generate the urls outside of the client (Notepad++) and import it into the url downloader or gallery downloader tabs.
 [How do i access restricted content?]
 Login on the Client, add your login details in the login script or import the Cookies from your browser.
-
 ```
 
 __**TAGS**__
