@@ -1,0 +1,68 @@
+__**GENERAL**__
+```css
+[What is Hydrus?]
+It's a file Manager and Downloader based on hash values and tags.
+It allows for easy management of tags for almost any file.
+But is made for file from the online web, like a booru or an imageboard.
+[My Question isn't covered in this shitty FAQ.]
+Use the Discord Search feature!
+[That did help me.]
+Explorer the UI yourself and just TRY.
+```
+
+__**DOWNLOAD SYSTEM**__
+```css
+[Pixiv doesn't work.]
+Make sure you are logged in or reset the login.
+[Tumblr doesn't work.]
+Try turning on the GDPR option under: Network>Downloaders>DEBUG>do tumblr GDPR click-through.
+[How do i download from SadPanda?]
+Import the preset and copy over your cookies from your browser!
+[How do i import tags from a website?]
+You can set client wide default tag import options under: Network>Downloaders>Manage Tag Import Options.
+Or per download tab under tag import options individually.
+[Where do i find new Download Presets?]
+At the preset github: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts
+[How do i import a Preset .png image file?]
+Import under Network>Downloaders>Import Downloaders
+[How do i RIP/Download a whole site?]
+Generate the urls outside of the client (Notepad++) and import it into the url downloader or gallery downloader tabs.
+[How do i access restricted content?]
+Login on the Client, add your login details in the login script or import the Cookies from your browser.
+
+```
+
+__**TAGS**__
+```css
+[Can i make Siblings/Parent Tags of namespaces?]
+No.
+[How do i grab tags for files with none?]
+Use IQDB or query the md5 value of the file on your favorite site.
+https://github.com/rachmadaniHaryono/iqdb_tagger
+```
+
+__**Duplicate System**__
+```css
+[Can i search for Duplicate Videos/Gifs?]
+No, Not yet. Its planed.
+[Working though the dupes are so slow.]
+Use the duplicate filter in the duplicate tab.
+```
+
+__**Links**__
+```md
+# Github: https://github.com/hydrusnetwork/hydrus
+# Presets & Scripts: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts
+# PTR Repo files: https://cuddlebear92.github.io/Quicksync/
+# 8chan: https://8ch.net/hydrus/index.html
+# Tumblr: http://hydrus.tumblr.com/
+# Twitter: https://twitter.com/hydrusnetwork
+# Patreon: https://www.patreon.com/hydrus_dev
+# e-mail: hydrus.admin@gmail.com ( @Hydrus Developer )
+
+Common Downloads:
+# Google Drive: https://drive.google.com/open?id=1LcaHuH_AuIjt6rgZKJSluYH0oVuiI_-I
+# Mega.nz: https://mega.nz/#F!s4QAFSSS!N-xuLHNH4IOd47sNEA__Xg
+# IQDB_Tagger: https://github.com/rachmadaniHaryono/iqdb_tagger
+# MD5 queries: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/2.-How-to-fetch-tags-in-bulk-with-md5-hash
+```
