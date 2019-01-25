@@ -4,6 +4,9 @@ __**GENERAL**__
 It's a file Manager and Downloader based on hash values and tags.
 It allows for easy management of tags for almost any file.
 But is made for file from the online web, like a booru or an imageboard.
+[My Antivirus says this is bad!]
+It's a False Positive!
+#Check with https://www.virustotal.com for confirmation.
 [My Question isn't covered in this shitty FAQ.]
 Use the Discord Search feature!
 [That didn't help]
