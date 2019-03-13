@@ -11,6 +11,15 @@ It also has a blacklist to not process the same file again, can also set a flag 
 Full filename and folder name support on write-out.
 More archives can be supported if 7z supports the format.
 
+## Find non-Webp
+Will check all archives for images and writeout an .xml or .cbl file listing all archive names.
+This is meant to be used with ComicRack to make ComicBookLists so it will easily give you the files in the client that messed up exporting.
+This was made cause ComicRack dont have an option to search for page format types like webp images.
+If CR crashes or stops its export, you will loose your export lists.
+Only way to really manage what is converted or not inside CR would be with some sort of metadata like: genre:webp... which works but isnt amazing.
+Issue with this is that there is no way to tell if its actually converted or not if the export is stopped for whatever reason after you tagged it.
+This script will give you an alternative to that by making a list for you.
+
 ## [yiff.party](https://yiff.party/) subs
 Extracts [yiff.party](https://yiff.party/) favorite exports (as exported from the site) and turns them into subscriptions for easy imports in [Hydrus](https://github.com/hydrusnetwork/hydrus/).
 
