@@ -9,19 +9,21 @@ import xml.etree.ElementTree as ET
 
 p7zip_executable="7z"
 #Folder Paths, Temp folder needs to have a folder named `comics_tmp` inside it.
+templatename="PublisherName"
+outfile=templatename+".cbl"
 temp_path="/volume1/Comics/tmp"
-comics_path="/volume1/Comics/Comics"
-outfile="Webp Processing List.cbl"
+comics_path="/volume1/Comics/Comics/"+templatename
 
 xml_template = """<?xml version="1.0"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>WebP Processing List</Name>
+  <Name>WebP Processing %PLACEHOLDER%</Name>
   <Books>
 %BOOKS%
   </Books>
   <Matchers />
 </ReadingList>
 """
+
 book_entry_template = """
     <Book>
       <FileName>%FILENAME%</FileName>
@@ -64,4 +66,4 @@ for root, dr, files in os.walk(comics_path):
             else:
                  print("Can't extract: "+root+"/"+f)
 
-open(outfile,"w").write(xml_template.replace("%BOOKS%",books))
+open(outfile,"w").write(xml_template.replace("%BOOKS%",books).replace("%PLACEHOLDER%",templatename))
