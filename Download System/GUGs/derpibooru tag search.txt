@@ -1,1 +1,0 @@
-[69, "derpibooru tag search", 1, ["d60b1b151c8d5212502e9a572ebd3c348be14fd7a7d1da0a5bc316ca5003e717", "https://derpibooru.org/search?q=%tags%&page=1", "%tags%", "+", "search tags (use comma to separate tags)", "rainbow dash,straight"]]
