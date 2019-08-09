@@ -1,1 +1,0 @@
-[69, "sankaku idol tag search", 1, ["b3a610d41f10fb17f87ba553ec6054531952ed9c92e79e09ba86d4c9778e236a", "https://idol.sankakucomplex.com/?tags=%tags%&page=1", "%tags%", "+", "search tags", "akagi_kuro swimsuit"]]

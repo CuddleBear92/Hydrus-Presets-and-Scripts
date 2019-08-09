@@ -1,1 +1,0 @@
-[50, "sankaku idol gallery page", 4, ["b1bd2fd2c30dd8c2c3715b3db1cf37c2608866ee715b95411bfea0e6f4df7ccb", 3, "https", "idol.sankakucomplex.com", true, false, [26, 1, []], [21, 1, [[], [], [], []]], [55, 1, [[], "https://idol.sankakucomplex.com/?tags=akagi_kuro&page=1"]], false, false, "https://idol.sankakucomplex.com/?tags=akagi_kuro&page=1"]]
