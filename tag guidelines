@@ -1,0 +1,28 @@
+Previous recommendations as to how and what tag by Hydrus Developer are still recommended to give a read since they're a great baseline to start from.
+Still, after the PTR move, the tag repo is now handled by a group of janitors in order to make the sorting of petitions easier and follow agreed guidelines.
+As such, the next namespaces are the ones that are the standard
+
+
+ Character: The name of the character appearing in the content you're tagging. 
+            When possible, do try to avoid tagging a character with their series in the name. This is obviously impossible for characters from the fate: series for example.
+            Related to point above, characters can have an official subtitle that will help differentiate and create siblings for them. So for example, Akali (lol) should be tagged with Akali, the fist of shadow in order to avoid confusion.
+ Creator:   It is used for content in which there's an defined artist. 
+            For example, creator:dandonfuga or creator:yeero. Despite one being 2D drawings and the other 3D renderings, they're still the creator of this piece. They created this one using others materials.
+            The material used can be copyrighted, but this is handled through the use of character, series and studio.
+            This tag is NOT used for IRL content. Please refer to person/idol below.
+ Studio:    Studio that created the content.
+            For example, for a character from the Final Fantasy series, this will be Square Enix.
+            For IRL, this refers to the studio that handled the creation. So for example, studio:graphis
+ Medium:    This is related to the medium or details of it in which art is created.
+            For example, medium:real life for images that are from RL.
+ Meta:      Basically metadata for the image. 
+            This includes stuff like meta:patreon reward since it's the medium in which the art is created but still gives information as for the source and quality of it.
+ Species:   This tag is exclusive for the species of the character/s appearing in the content.
+ Person:    Tag applied when the image has a real person, either pictured in real life or in a 2D drawing. If the person has an "alias", add it to the tag itself.
+            For example, Kato, a steampunk model takes a selfie. That would be person:kate "kato" lambert. If you drew her, it would still be person:kate "kato" lambert. Do use medium: or other unnamespaced tags in order to differentiate them.
+            Currently, there's a split on idol/person but both are accepted and correct. Do feel free to hide one through tag viewer preferences.
+
+The following tags are REMOVED ON SIGHT and are not accepted in their current form. Do feel free to bring them up in a discussion with janitors and other users in the Hydrus Discord.
+
+Namespaced tags: ANY NON OBJECTIVE TAG / TAG THAT IS LOCAL ONLY,  Action, emotion, class, outfit, head, face, hair, arms, breasts, legs, feet, navel, nipples, girlscount, malescount, boys, girls, group, circle, artist, parody, copyright, franchise, eyes, urine, uploader, filename
+Other tags that are frowned upon and usually removed: banned artist and their variation [...]
