@@ -16,7 +16,7 @@ As such, the next namespaces are the ones that are the standard
  Medium:    This is related to the medium or details of it in which art is created.
             For example, medium:real life for images that are from RL.
  Meta:      Basically metadata for the image. 
-            This includes stuff like meta:patreon reward since it's the medium in which the art is created but still gives information as for the source and quality of it.
+            This includes stuff like meta:patreon reward since it's not the medium in which the art is created but still gives information as for the source and quality of it.
  Species:   This tag is exclusive for the species of the character/s appearing in the content.
  Person:    Tag applied when the image has a real person, either pictured in real life or in a 2D drawing. If the person has an "alias", add it to the tag itself.
             For example, Kato, a steampunk model takes a selfie. That would be person:kate "kato" lambert. If you drew her, it would still be person:kate "kato" lambert. Do use medium: or other unnamespaced tags in order to differentiate them.
