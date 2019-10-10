@@ -21,6 +21,8 @@ As such, the next namespaces are the ones that are the standard
  Person:    Tag applied when the image has a real person, either pictured in real life or in a 2D drawing. If the person has an "alias", add it to the tag itself.
             For example, Kato, a steampunk model takes a selfie. That would be person:kate "kato" lambert. If you drew her, it would still be person:kate "kato" lambert. Do use medium: or other unnamespaced tags in order to differentiate them.
             Currently, there's a split on idol/person but both are accepted and correct. Do feel free to hide one through tag viewer preferences.
+ Photoset:  This namespace is reserved for IRL content in which all the tagged images with the same tag belong to a single photoset.
+            For example, photoset:darkest night from person:kate "kato" lambert
 
 The following tags are REMOVED ON SIGHT and are not accepted in their current form. Do feel free to bring them up in a discussion with janitors and other users in the Hydrus Discord.
 
