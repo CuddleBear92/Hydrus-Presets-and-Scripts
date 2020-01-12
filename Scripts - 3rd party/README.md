@@ -20,8 +20,11 @@ Only way to really manage what is converted or not inside CR would be with some 
 Issue with this is that there is no way to tell if its actually converted or not if the export is stopped for whatever reason after you tagged it.
 This script will give you an alternative to that by making a list for you.
 
-## [yiff.party](https://yiff.party/) subs
+## Depreciated [yiff.party](https://yiff.party/) subs
 Extracts [yiff.party](https://yiff.party/) favorite exports (as exported from the site) and turns them into subscriptions for easy imports in [Hydrus](https://github.com/hydrusnetwork/hydrus/).
+
+Depreciation Reason: Use the Wiki guide instead: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/5.-Quickly-grab-all-followed-creators-from-yiff.party
+
 
 ## Booru Mass Uploader
 A Browser Script for [TamperMonkey](https://tampermonkey.net/) [GreaseMonkey](https://www.greasespot.net/) you can find the original [HERE](https://github.com/Seedmanc/Booru-mass-uploader)
