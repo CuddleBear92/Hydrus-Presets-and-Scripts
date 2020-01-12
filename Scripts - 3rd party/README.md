@@ -34,3 +34,8 @@ Doing a [pull-request](https://github.com/Seedmanc/Booru-mass-uploader/pulls) on
 ## IQDB_tagger
 A Python script that allows for bulk upload of images on iqdb though image recognition.
 This can output sidecar files next to the file for easy import or an url list for easy downloading of all data in Hydrus.
+
+## Yiff.Party ID>Creator Siblings
+There iw two scripts for creating siblings that link the Yiff.Party ID and the actual Creator/account name.
+Both of these scripts does the same thing but a bit differently. Try the other if one fail. 
+`yiff.party-creator-siblings.py` & `yiff2siblings.py`
