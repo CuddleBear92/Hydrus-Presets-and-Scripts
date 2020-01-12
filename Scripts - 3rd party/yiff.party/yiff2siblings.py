@@ -12,6 +12,7 @@ parser = argparse.ArgumentParser(description='Convert yiff manifest to hydrus si
 group = parser.add_mutually_exclusive_group(required=True)
 group.add_argument("-o", "--outfile",help="Path of file to write results",default=None)
 group.add_argument("-p", "--print", help="Print to standard out", action="store_true",default=False)
+parser.add_argument("-b", "--include-blank", help="Include creator names even if they are empty", action="store_true",default=False)
 
 parser.add_argument("-l", "--linesep", help="Override newline for the output file.",default=None)
 
@@ -34,6 +35,11 @@ with urlopen(req) as f:
         for u in d["creators"]:
             # yiff id:13538527
             # creator:000
+
+            if u["name"]=="" and not args.include_blank:
+                continue
+
+
             s="yiff id:%s%screator:%s" % (u["id"],linesep, u["name"])
             if file_out:
                 out.write(s)
