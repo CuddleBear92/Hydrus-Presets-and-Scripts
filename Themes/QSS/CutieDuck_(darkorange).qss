@@ -69,7 +69,7 @@ QLineEdit
     background-color: #4d4d4d;
     padding: 1px;
     border-style: solid;
-    border: 1px solid #1e1e1e;
+    border: 1px solid #000000;
 }
 
 QPushButton
@@ -77,7 +77,7 @@ QPushButton
     color: white;
     background-color: #565656;
     border-width: 1px;
-    border-color: #1e1e1e;
+    border-color: #000000;
     border-style: solid;
     padding: 3px;
     font-size: 12px;
@@ -95,7 +95,7 @@ QComboBox
     selection-background-color: #ffa02f;
     background-color: #565656;
     border-style: solid;
-    border: 1.0px solid #1e1e1e;
+    border: 1.0px solid #000000;
 }
 
 QComboBox:hover,QPushButton:hover
@@ -139,12 +139,12 @@ border: 1px solid #d7801a;
 }
 QTextEdit:focus
 {
-    border: 1px solid #ffa02f;
+    border: 1px solid #2d2d2d;
 }
 
 QScrollBar:horizontal {
-     border: 1px solid #222222;
-     background: #121212;
+     border: 1px solid #000000;
+     background: black;
      height: 7px;
      margin: 0px 16px 0 16px;
 }
@@ -157,7 +157,7 @@ QScrollBar::handle:horizontal
 }
 
 QScrollBar::add-line:horizontal {
-      border: 1px solid #1b1b19;
+      border: 1px solid #000000;
       border-radius: 2px;
       background: #d7801a;
       width: 14px;
@@ -166,7 +166,7 @@ QScrollBar::add-line:horizontal {
 }
 
 QScrollBar::sub-line:horizontal {
-      border: 1px solid #1b1b19;
+      border: 1px solid #000000;
       border-radius: 2px;
       background: #d7801a;
       width: 14px;
@@ -192,7 +192,7 @@ QScrollBar:vertical
       background: #484848;
       width: 7px;
       margin: 16px 0 16px 0;
-      border: 1px solid #222222;
+      border: 1px solid #000000;
 }
 
 QScrollBar::handle:vertical
@@ -203,7 +203,7 @@ QScrollBar::handle:vertical
 
 QScrollBar::add-line:vertical
 {
-      border: 1px solid #1b1b19;
+      border: 1px solid #000000;
       background: #ffa02f;
       height: 14px;
       subcontrol-position: bottom;
@@ -212,7 +212,7 @@ QScrollBar::add-line:vertical
 
 QScrollBar::sub-line:vertical
 {
-      border: 1px solid #1b1b19;
+      border: 1px solid #000000;
       background: #ffa02f;
       height: 14px;
       subcontrol-position: top;
@@ -235,12 +235,12 @@ QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical
 
 QTextEdit
 {
-    background-color: #242424;
+    background-color: #000000;
 }
 
 QPlainTextEdit
 {
-    background-color: #242424;
+    background-color: #000000;
 }
 
 QHeaderView::section
