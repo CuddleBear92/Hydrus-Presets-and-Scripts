@@ -7,8 +7,10 @@ QToolTip
 
 QWidget
 {
-    color: #b1b1b1;
+
+    color: white;
     background-color: #323232;
+	alternate-background-color: #323232;
 }
 
 QWidget:disabled
@@ -254,10 +256,9 @@ QProgressBar
 
 QProgressBar::chunk
 {
-    background-color: #ffa02f;
-    width: 1.0px;
-    margin: 0.5px;
+	background-color: #d7801a;
 }
+
 /*=====================================================*/
 QTabBar::tab {
     color: #b1b1b1;
