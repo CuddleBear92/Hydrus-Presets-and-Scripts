@@ -1,4 +1,4 @@
-/* CutieDuck Hydrus.qss based on QtOrange */
+/* CutieDuck Hydrus.qss based on QTOrange */
 
 QToolTip
 {
@@ -74,7 +74,7 @@ QLineEdit
 
 QPushButton
 {
-    color: #b1b1b1;
+    color: white;
     background-color: #565656;
     border-width: 1px;
     border-color: #1e1e1e;
