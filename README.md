@@ -9,8 +9,6 @@ you can read more about Hydrus here: http://hydrusnetwork.github.io/hydrus/
 
 for help using these presets and scripts, take a look at our wiki: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki
 
-Alternative Source for Scripts and Presets: http://hydrus.booru.org/
-
 
 Social:
 * Discord live Chat: https://discord.com/invite/wPHPCUZ (where you find alot if not most of our community of users)
