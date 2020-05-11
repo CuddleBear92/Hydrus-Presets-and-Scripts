@@ -13,7 +13,7 @@ Alternative Source for Scripts and Presets: http://hydrus.booru.org/
 
 
 Social:
-* Discord live Chat: https://discord.gg/vy8CUB4 (where you find alot if not most of our community of users)
+* Discord live Chat: https://discord.com/invite/wPHPCUZ (where you find alot if not most of our community of users)
 * 8ch: https://8ch.net/hydrus/index.html
 * Tumblr: http://hydrus.tumblr.com/
 * Twitter: https://twitter.com/hydrusnetwork
