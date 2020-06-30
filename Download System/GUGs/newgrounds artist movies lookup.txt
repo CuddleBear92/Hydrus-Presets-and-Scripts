@@ -1,1 +1,0 @@
-[69, "newgrounds artist movies lookup", 1, ["cecdbdd0be2bc1fee3bfc4aad240699ae8cb52f0146ed7c35f18b260463e2f78", "https://%artist%.newgrounds.com/movies/", "%artist%", "-", "artist username", "sambakza"]]

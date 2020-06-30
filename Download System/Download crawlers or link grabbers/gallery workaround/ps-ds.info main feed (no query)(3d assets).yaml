@@ -1,9 +1,0 @@
-!Booru
-_advance_by_page_num: true
-_image_data: null
-_image_id: ''
-_name: ps-ds.info main feed
-_search_separator: +
-_search_url: http://ps-ds.info/page/%index%/
-_tag_classnames_to_namespaces: {title: title}
-_thumb_classname: main-news-image
