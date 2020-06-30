@@ -1,1 +1,0 @@
-[69, "zzz - belgianmapping@booru.org tag search", 1, ["b15b743cdea0e3789f52592e6f4d01919bca287ead1595925a3fbddc8055b484", "https://belgianmapping.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

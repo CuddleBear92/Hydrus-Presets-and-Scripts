@@ -1,1 +1,0 @@
-[69, "zzz - memeteam@booru.org tag search", 1, ["1b91923d72206d3dd831b146ffbe882816dac6b348a6d7ea7981da9a7e1985f8", "https://memeteam.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

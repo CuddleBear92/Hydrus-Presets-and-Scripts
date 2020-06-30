@@ -1,1 +1,0 @@
-[69, "zzz - hauntedmansion@booru.org tag search", 1, ["de63a6a9062dfd0ee853305dd92733cd9f5a847b1e52ffb06629b1596d110bfa", "https://hauntedmansion.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

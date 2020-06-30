@@ -1,1 +1,0 @@
-[69, "zzz - politicalrevolution@booru.org tag search", 1, ["59bb143f5768e2ace475ddc002e2edcfb555371893a2b0dd0f42278fa0131588", "https://politicalrevolution.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

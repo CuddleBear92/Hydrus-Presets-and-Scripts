@@ -1,1 +1,0 @@
-[69, "zzz - lukamiku@booru.org tag search", 1, ["7c2e12375d009a2de87dc920db27c80c52c5ac7c1e6e5a9e2452399c93eeb974", "https://lukamiku.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

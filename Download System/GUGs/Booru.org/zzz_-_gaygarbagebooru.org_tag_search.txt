@@ -1,1 +1,0 @@
-[69, "zzz - gaygarbage@booru.org tag search", 1, ["327ccf63a3855f425d591c6d13e3611ed142154786491c6867fd7799840c603b", "https://gaygarbage.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[69, "zzz - fujoshi@booru.org tag search", 1, ["79b11f76e71a0fc5f4e7374ee205d51eb1879c8c1d642957296c6434bd1518f3", "https://fujoshi.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

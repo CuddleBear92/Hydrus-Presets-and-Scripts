@@ -1,1 +1,0 @@
-[69, "zzz - homoerotic@booru.org tag search", 1, ["37ba77da9ad44f46dfa9e6fccf451b33d6aea12afcf3ce1dc46dc6331dd81e0b", "https://homoerotic.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

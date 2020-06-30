@@ -1,1 +1,0 @@
-[69, "zzz - my-caps@booru.org tag search", 1, ["55f6d1624b63615e1644d125b564e3a0fa2fe104863df7417a18e414eec6329b", "https://my-caps.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[69, "zzz - tg-collection@booru.org tag search", 1, ["8d1e2a0f6cdc7d9a46fc1daca241578653a29c9391fbc1eb04aabadc72e3360f", "https://tg-collection.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

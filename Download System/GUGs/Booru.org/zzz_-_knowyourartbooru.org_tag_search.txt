@@ -1,1 +1,0 @@
-[69, "zzz - knowyourart@booru.org tag search", 1, ["e8195dea16a2a3e6bbf864c86cb57d2e9bcad791210e2ca5a9298f31d3d97afd", "https://knowyourart.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

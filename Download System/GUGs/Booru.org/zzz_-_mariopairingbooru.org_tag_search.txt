@@ -1,1 +1,0 @@
-[69, "zzz - mariopairing@booru.org tag search", 1, ["8871e90a75357c1407438808fb7b1b47dbc06ff0ae02c984eac44267cb9da06b", "https://mariopairing.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

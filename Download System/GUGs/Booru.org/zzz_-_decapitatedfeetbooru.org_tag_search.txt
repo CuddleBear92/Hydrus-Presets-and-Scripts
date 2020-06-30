@@ -1,1 +1,0 @@
-[69, "zzz - decapitatedfeet@booru.org tag search", 1, ["30aef5360262e09af55852ff9c215b207500cba1de34619553c1f0856c415824", "https://decapitatedfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

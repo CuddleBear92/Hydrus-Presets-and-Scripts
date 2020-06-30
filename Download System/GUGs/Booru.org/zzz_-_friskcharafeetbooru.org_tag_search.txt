@@ -1,1 +1,0 @@
-[69, "zzz - friskcharafeet@booru.org tag search", 1, ["2a7092617eaf84872544bbbd6bc83a9feefeb574a79a33885d5363c14a0a6e28", "https://friskcharafeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

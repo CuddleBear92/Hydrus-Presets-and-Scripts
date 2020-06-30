@@ -1,1 +1,0 @@
-[69, "zzz - wiifitfeet@booru.org tag search", 1, ["1c1cb813cf7660bae71aa80a037dd28db958dadeda943879d9a9955e3e99e37f", "https://wiifitfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[69, "zzz - emilia@booru.org tag search", 1, ["98fc086e7063d68558e9f3f09aa9d2cb06b9d6d36cbd070c5354e1598835810d", "https://emilia.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

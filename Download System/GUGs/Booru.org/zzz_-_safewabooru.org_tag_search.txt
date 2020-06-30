@@ -1,1 +1,0 @@
-[69, "zzz - safewa@booru.org tag search", 1, ["c73bf74ec91f2818310216390f2ac81f41de33b698d913932af26cc78fd510c2", "https://safewa.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

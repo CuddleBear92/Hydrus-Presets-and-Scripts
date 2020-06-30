@@ -1,1 +1,0 @@
-[69, "zzz - celebfake@booru.org tag search", 1, ["c2c17f5960e5fda50062065a1001f4ceab6131561510e1091ef19952b2afdd03", "https://celebfake.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

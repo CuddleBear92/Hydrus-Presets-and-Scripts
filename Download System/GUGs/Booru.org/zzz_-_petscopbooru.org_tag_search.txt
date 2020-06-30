@@ -1,1 +1,0 @@
-[69, "zzz - petscop@booru.org tag search", 1, ["bacfb4d3f71018eae5ebd4b3b9ec42f46dbc7bbf68ba626fcdfa6f322e748828", "https://petscop.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

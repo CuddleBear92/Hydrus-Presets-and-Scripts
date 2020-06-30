@@ -1,1 +1,0 @@
-[69, "zzz - firewatch@booru.org tag search", 1, ["ef191c7bc2b80c820ac5fd357224a8f4275286e3c0e20a2f881f9af767461bb1", "https://firewatch.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

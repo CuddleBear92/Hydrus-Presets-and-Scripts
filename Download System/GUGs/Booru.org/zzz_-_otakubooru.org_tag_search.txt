@@ -1,1 +1,0 @@
-[69, "zzz - otaku@booru.org tag search", 1, ["e7514033eaac6ea2d1aede6c542bab28d438a539db575864023d25ae5620c055", "https://otaku.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

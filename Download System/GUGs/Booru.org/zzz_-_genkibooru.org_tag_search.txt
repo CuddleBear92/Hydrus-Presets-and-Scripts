@@ -1,1 +1,0 @@
-[69, "zzz - genki@booru.org tag search", 1, ["2f9ad53278732c058c37458aa791a42937f07474d4bffb584f5f3af968436092", "https://genki.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

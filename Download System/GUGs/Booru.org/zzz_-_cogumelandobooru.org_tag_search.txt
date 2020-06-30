@@ -1,1 +1,0 @@
-[69, "zzz - cogumelando@booru.org tag search", 1, ["206746ea220e271ffc0c304835bc1917d01d888baf5cb845e2cb24bc528e5df0", "https://cogumelando.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

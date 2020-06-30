@@ -1,1 +1,0 @@
-[69, "zzz - fanart@booru.org tag search", 1, ["32fbb4758049e28799202aa2c10ac5a9f075f459aa76d136b603f99a49088d63", "https://fanart.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

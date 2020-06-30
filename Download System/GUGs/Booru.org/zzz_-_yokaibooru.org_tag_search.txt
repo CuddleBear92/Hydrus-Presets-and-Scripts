@@ -1,1 +1,0 @@
-[69, "zzz - yokai@booru.org tag search", 1, ["86e844cd6e7a91087c56dab9bf4f704c4e56340c0c2d9b35efa3935a25931332", "https://yokai.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

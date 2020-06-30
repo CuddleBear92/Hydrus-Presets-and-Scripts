@@ -1,1 +1,0 @@
-[69, "zzz - cucktendies@booru.org tag search", 1, ["80472a04dec6c5ac7a103047e0ae3c3ed66e6ef96c14d59aed01ca9644fabc95", "https://cucktendies.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

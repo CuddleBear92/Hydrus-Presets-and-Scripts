@@ -1,1 +1,0 @@
-[69, "zzz - alltied@booru.org tag search", 1, ["dbc6d6ce7c4a796aead24fdd24727c7a2aff8af2dde3b9fb8b0bd53c76ebf6ad", "https://alltied.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

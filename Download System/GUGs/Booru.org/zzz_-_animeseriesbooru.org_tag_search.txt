@@ -1,1 +1,0 @@
-[69, "zzz - animeseries@booru.org tag search", 1, ["3e4dadcfe0c18039857b5e4643020a5d387646296a68f536641c41b1d9fcfeae", "https://animeseries.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

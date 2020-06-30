@@ -1,1 +1,0 @@
-[69, "zzz - px-super@booru.org tag search", 1, ["ac6be187cbbbb89a4a84c82fd948c6b60836c5506ff5e8ed2a449ce720ad06b8", "https://px-super.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

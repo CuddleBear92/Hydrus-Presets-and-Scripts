@@ -1,1 +1,0 @@
-[69, "zzz - magichan@booru.org tag search", 1, ["8582e2320bd2bf0b13df013c4ad5a522635ee06a6ceabad0fd1daf32891ff76a", "https://magichan.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

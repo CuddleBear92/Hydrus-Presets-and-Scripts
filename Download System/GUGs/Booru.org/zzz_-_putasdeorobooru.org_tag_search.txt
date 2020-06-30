@@ -1,1 +1,0 @@
-[69, "zzz - putasdeoro@booru.org tag search", 1, ["7b39871c126f68a09d987d5dc04fcdf146da99add93a2d4ebbe015db509da81c", "https://putasdeoro.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

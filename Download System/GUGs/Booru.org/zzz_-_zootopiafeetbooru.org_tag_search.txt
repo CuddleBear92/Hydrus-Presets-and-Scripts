@@ -1,1 +1,0 @@
-[69, "zzz - zootopiafeet@booru.org tag search", 1, ["b83d299fe127625c55e99007b259e5bb23bf1cbca76604d0ddb5e86496df0788", "https://zootopiafeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[69, "zzz - curve@booru.org tag search", 1, ["db58a4b29f88df71a5738d0fdfb3c7b5b8cf74690163ef3eeb9261ec694a2974", "https://curve.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

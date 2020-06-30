@@ -1,1 +1,0 @@
-[69, "zzz - prettysailorfeet@booru.org tag search", 1, ["6a6d7b242c661530404fbedcc1be0a74f1c22dd8908a2ebea445ebbdfec31d11", "https://prettysailorfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

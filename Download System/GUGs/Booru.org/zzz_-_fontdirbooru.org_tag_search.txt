@@ -1,1 +1,0 @@
-[69, "zzz - fontdir@booru.org tag search", 1, ["744c81f7aef20c35ed70814187471a7a0f559162e85844b822272a3092b54129", "https://fontdir.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

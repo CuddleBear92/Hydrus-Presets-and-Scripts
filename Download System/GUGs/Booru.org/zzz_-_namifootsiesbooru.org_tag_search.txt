@@ -1,1 +1,0 @@
-[69, "zzz - namifootsies@booru.org tag search", 1, ["b094ee6e5e6cf26118f8c3e2a1803e6076f5eb77951cd7cd742af0ee57401f5e", "https://namifootsies.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

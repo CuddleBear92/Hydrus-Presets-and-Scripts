@@ -1,1 +1,0 @@
-[69, "zzz - the-idealists@booru.org tag search", 1, ["c7de7e20bbe4888a21832c769852b003462705d28c1cdf72de6bf2c25d8602dc", "https://the-idealists.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

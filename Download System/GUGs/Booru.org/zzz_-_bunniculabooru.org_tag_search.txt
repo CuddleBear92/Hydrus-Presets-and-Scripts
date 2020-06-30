@@ -1,1 +1,0 @@
-[69, "zzz - bunnicula@booru.org tag search", 1, ["b51abe2cb2907efcd8f47b0f46ff6e446613bf52c6c976f432051c4b8490e144", "https://bunnicula.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

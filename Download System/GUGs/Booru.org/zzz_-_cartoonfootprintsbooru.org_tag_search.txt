@@ -1,1 +1,0 @@
-[69, "zzz - cartoonfootprints@booru.org tag search", 1, ["a777980ab723de8a4870ea21049d471ce1c6e8972ef9b493d236fca76e4f63c2", "https://cartoonfootprints.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]
