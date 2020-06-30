@@ -1,11 +1,16 @@
 # Hydrus Presets, Scripts & Issue Tracker
 A collection of presets and scripts for Hydrus.
-Issues for the main Hydrus repo is also listed here https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/labels/Hydrus
+
+For issues regarding custom downloaders found in this repo either use the support chat found in the Discord server or use this repo's issues page, found here: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/issues
+
+Issues for the main Hydrus repo is listed at: https://github.com/hydrusnetwork/hydrus/issues  
+
+
 Total Collection of Supported Sites are found here: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/0--Supported-websites
 
 Hydrus: https://github.com/hydrusnetwork/hydrus
 
-you can read more about Hydrus here: http://hydrusnetwork.github.io/hydrus/
+Further information and help pages about Hydrus are found here: http://hydrusnetwork.github.io/hydrus/
 
 for help using these presets and scripts, take a look at our wiki: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki
 
