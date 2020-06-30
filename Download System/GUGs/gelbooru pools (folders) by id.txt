@@ -1,1 +1,0 @@
-[69, "gelbooru pools (folders) by id", 1, ["f36fa15daf489ba2f0dd3a232d46641094cbdabe97afffa9a510625102926268", "https://gelbooru.com/index.php?page=pool&s=show&id=%poolid%", "%poolid%", "+", "Pool ID / Folder ID", "45576"]]
