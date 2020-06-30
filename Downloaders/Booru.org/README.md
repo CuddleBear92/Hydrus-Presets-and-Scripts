@@ -1,0 +1,1 @@
+\*.booru.org downloaders. Grab the gug for the specific subdomain you want to use from the GUGs folder and import that plus the other downloader objects in this here folder.
