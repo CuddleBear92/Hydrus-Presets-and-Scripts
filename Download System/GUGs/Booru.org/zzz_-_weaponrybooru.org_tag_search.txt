@@ -1,1 +1,0 @@
-[69, "zzz - weaponry@booru.org tag search", 1, ["a66b4fe4468918e3c63534c057b682693f2dfa086493b59632c794f249933e38", "https://weaponry.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

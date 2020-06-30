@@ -1,1 +1,0 @@
-[69, "zzz - celestia@booru.org tag search", 1, ["e3829a872d96a2dfc05ca5597f540da2c905cb3f19a7a538f61b519bc2ce42c8", "https://celestia.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

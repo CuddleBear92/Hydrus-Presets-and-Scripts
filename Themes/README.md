@@ -1,0 +1,1 @@
+These are Qt Style Sheets for customising the looks of Hydrus. Note that it is limited to colour, text font, and text size.

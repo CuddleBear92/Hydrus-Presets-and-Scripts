@@ -1,1 +1,0 @@
-[69, "zzz - avatarchan@booru.org tag search", 1, ["d7d9187313e45da8b16736654e97bcdbde15da81c2e2317b09e3e4e23256dde3", "https://avatarchan.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

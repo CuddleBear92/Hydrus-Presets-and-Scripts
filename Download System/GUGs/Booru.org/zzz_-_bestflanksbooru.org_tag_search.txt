@@ -1,1 +1,0 @@
-[69, "zzz - bestflanks@booru.org tag search", 1, ["6c0cb7d32c724db294a9cb9361b4437a7cab8d44ad1c5b08c51daafcf774d09e", "https://bestflanks.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[69, "zzz - tampons@booru.org tag search", 1, ["47ba3cd4a26e85bfe5ac8660a00fa907c6da5d071714d358395ea361df8af479", "https://tampons.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

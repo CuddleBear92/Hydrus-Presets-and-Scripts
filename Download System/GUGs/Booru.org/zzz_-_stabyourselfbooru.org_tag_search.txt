@@ -1,1 +1,0 @@
-[69, "zzz - stabyourself@booru.org tag search", 1, ["b2d047476479874e13f9b306d8302b044ea4f9aa255f0a48116b853f54d4f7c5", "https://stabyourself.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

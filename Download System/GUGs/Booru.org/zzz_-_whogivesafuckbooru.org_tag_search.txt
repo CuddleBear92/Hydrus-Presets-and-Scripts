@@ -1,1 +1,0 @@
-[69, "zzz - whogivesafuck@booru.org tag search", 1, ["d14cb7719851d35008c7f60a6c82cab227dc8e79e7ba108b2bff9670784c3d84", "https://whogivesafuck.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

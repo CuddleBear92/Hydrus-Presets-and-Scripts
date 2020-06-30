@@ -1,0 +1,1 @@
+The fringeBenefits HHTP header lets you access blacklisted tags and other saucy content without being logged in.

@@ -1,1 +1,0 @@
-[69, "zzz - templars@booru.org tag search", 1, ["c63fc92de1460bb9a2d2dcfec164e3bb950dfb62c2d326f15a20af3b228fea38", "https://templars.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

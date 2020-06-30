@@ -1,1 +1,0 @@
-[69, "zzz - cosplayfeet@booru.org tag search", 1, ["bb4f7b5cb1d37e361d953cbd16392ef125d9714362902c3fe35bde764fdff5d2", "https://cosplayfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

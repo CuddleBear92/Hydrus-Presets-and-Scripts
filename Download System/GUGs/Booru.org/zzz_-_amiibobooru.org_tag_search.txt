@@ -1,1 +1,0 @@
-[69, "zzz - amiibo@booru.org tag search", 1, ["3e6b0158baabb1aeeca838e1a63d6e23614cd9ec74ad7ecc3807295993af778e", "https://amiibo.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

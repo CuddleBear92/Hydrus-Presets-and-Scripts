@@ -1,1 +1,0 @@
-[70, "newgrounds artist lookup", 1, ["a6d625ceb791a863855fbd9dbb9c3adc5899d90c3bad88a888871159085b42cd", "artist username", [["cecdbdd0be2bc1fee3bfc4aad240699ae8cb52f0146ed7c35f18b260463e2f78", "newgrounds artist movies lookup"], ["3dd875b23e1d4d70fe8c5be8f025cb96168bc9fa5a827a63a40a8ff33e43c030", "newgrounds artist games lookup"]]]]

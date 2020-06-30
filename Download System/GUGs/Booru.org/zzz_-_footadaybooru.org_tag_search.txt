@@ -1,1 +1,0 @@
-[69, "zzz - footaday@booru.org tag search", 1, ["d889a3f339cd208c698f51178325062643eed10c3510b89a01284c3e658e6141", "https://footaday.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

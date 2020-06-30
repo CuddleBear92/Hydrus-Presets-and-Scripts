@@ -1,1 +1,0 @@
-[69, "zzz - cookies-and-coffee@booru.org tag search", 1, ["eaed563c39f51f41e6fe6367caaf55604a1644701e8e2b91a7ea59dd52ba6ad8", "https://cookies-and-coffee.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[50, "okkisokuho post url", 4, ["c712901bb179484f6bc50caf9db0f8a755ce7975f49e470697d490b4bbb49948", 0, "https", "okkisokuho.com", false, false, [26, 1, [[51, 1, [2, "^(?!wp-content).*$", null, null, "post"]]]], [21, 1, [[], [], [], []]], [55, 1, [[], "https://hostname.com/post/page.php?id=123456&s=view"]], true, false, "https://okkisokuho.com/post9392/"]]

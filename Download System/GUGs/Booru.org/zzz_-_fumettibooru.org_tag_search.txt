@@ -1,1 +1,0 @@
-[69, "zzz - fumetti@booru.org tag search", 1, ["b8d07f65c84e5bb7d7449ccbc99559f39406f137074c76b250b317ab22ca5198", "https://fumetti.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

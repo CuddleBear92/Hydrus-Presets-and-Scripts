@@ -1,1 +1,0 @@
-[69, "artstation artist lookup", 1, ["15b6c31733eb290e345d9a1d1e4dfd2cfa586f7943ce568a935cf6e94f43ac2e", "https://www.artstation.com/%artist%", "%artist%", " ", "artist username", "grafit"]]

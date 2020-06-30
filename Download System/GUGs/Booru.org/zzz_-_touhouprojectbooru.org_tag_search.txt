@@ -1,1 +1,0 @@
-[69, "zzz - touhouproject@booru.org tag search", 1, ["3af7309edf9fb777c36d4c34cb22c3e0783d42f33938bed9c4d0b6bd32bd2efc", "https://touhouproject.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

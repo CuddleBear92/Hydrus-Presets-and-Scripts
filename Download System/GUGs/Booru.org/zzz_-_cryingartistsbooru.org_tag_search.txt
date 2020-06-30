@@ -1,1 +1,0 @@
-[69, "zzz - cryingartists@booru.org tag search", 1, ["299ece0c57d8690ed631ba2d10041c30b6b5fe369aa7af02cb78a5a4a4fd4c7a", "https://cryingartists.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[69, "zzz - yanderesimulator@booru.org tag search", 1, ["87c88e3b77ec17a8aae9d535b28442b24749b669e0071b873c5a4f65c1685ca2", "https://yanderesimulator.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,9 +1,0 @@
-!Booru
-_advance_by_page_num: true
-_image_data: null
-_image_id: ''
-_name: furaffinity.net creator gallery
-_search_separator: +
-_search_url: http://www.furaffinity.net/gallery/%tags%/%index%/
-_tag_classnames_to_namespaces: {Creator: Creator, awgawd: ''}
-_thumb_classname: t-image

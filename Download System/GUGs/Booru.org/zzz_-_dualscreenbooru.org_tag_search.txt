@@ -1,1 +1,0 @@
-[69, "zzz - dualscreen@booru.org tag search", 1, ["10edeb30132c2a7f4c0c12adc25ddfde374b931ff410a9330f1622d67d33350d", "https://dualscreen.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

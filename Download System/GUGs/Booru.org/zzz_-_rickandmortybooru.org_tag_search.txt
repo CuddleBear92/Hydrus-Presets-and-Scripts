@@ -1,1 +1,0 @@
-[69, "zzz - rickandmorty@booru.org tag search", 1, ["ae4c9d3f0a1c57fc467c83262a93fec33d29e528f3669d70ab1b79c943cde5e7", "https://rickandmorty.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

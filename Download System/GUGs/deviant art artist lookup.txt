@@ -1,1 +1,0 @@
-[69, "deviant art artist lookup", 1, ["dacc2a0734656562eb539915879d9b44b3ecb288bf48c56e2f9a00d0b5ec6501", "https://www.deviantart.com/%artist%/gallery/?catpath=/&offset=0", "%artist%", "+", "artist username", "starca"]]

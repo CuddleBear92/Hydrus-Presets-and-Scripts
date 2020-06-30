@@ -1,1 +1,0 @@
-[69, "zzz - pinupfeet@booru.org tag search", 1, ["c47e1b326f91011ffe08bb08720717b3036fa064303967180bd18d32da70551a", "https://pinupfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

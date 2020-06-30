@@ -1,1 +1,0 @@
-[69, "zzz - photoshop@booru.org tag search", 1, ["eb9813760b568364331d2ba6d29e20feaa02a0b139e60749c92f1b28dcd63fec", "https://photoshop.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

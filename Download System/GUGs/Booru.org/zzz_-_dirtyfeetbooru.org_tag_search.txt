@@ -1,1 +1,0 @@
-[69, "zzz - dirtyfeet@booru.org tag search", 1, ["b96195dd52434b5a0ee6e1ed3391419b01bebb38b54fa60758ce440fc9ee64d0", "https://dirtyfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

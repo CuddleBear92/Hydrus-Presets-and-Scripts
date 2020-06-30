@@ -1,1 +1,0 @@
-[69, "zzz - trumpsalt@booru.org tag search", 1, ["57a0a981ee0c3594f6c71826f417872b0ea88bf3bc920815a0c974afef7e464e", "https://trumpsalt.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

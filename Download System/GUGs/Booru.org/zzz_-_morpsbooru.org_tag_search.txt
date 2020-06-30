@@ -1,1 +1,0 @@
-[69, "zzz - morps@booru.org tag search", 1, ["c2554cf507ffa4039b716f972bab77ba1082a7b100f4ee2ba9b47c8ba2cce8a1", "https://morps.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

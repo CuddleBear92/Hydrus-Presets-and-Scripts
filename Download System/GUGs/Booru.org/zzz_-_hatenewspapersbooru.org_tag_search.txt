@@ -1,1 +1,0 @@
-[69, "zzz - hatenewspapers@booru.org tag search", 1, ["972baccb474f6d53dfd65871b76123f2afa4ca77cb9dd415340641c0b77abe39", "https://hatenewspapers.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[69, "gelbooru favorites by user id", 1, ["a00f38f32de5069cbe3b1b8d009e86653c60cc9e16f8ea0924c582e8db5257cb", "https://gelbooru.com/index.php?id=%idnumber%&page=favorites&s=view", "%idnumber%", "+", "user id", "212765"]]

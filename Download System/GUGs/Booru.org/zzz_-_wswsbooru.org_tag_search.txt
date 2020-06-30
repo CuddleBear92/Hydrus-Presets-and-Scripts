@@ -1,1 +1,0 @@
-[69, "zzz - wsws@booru.org tag search", 1, ["7fb762ab04f754f7654f3a122cfc8417fcce9ef0f5a584a0f11398d21579c186", "https://wsws.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

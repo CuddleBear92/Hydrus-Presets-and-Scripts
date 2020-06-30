@@ -1,1 +1,0 @@
-[69, "zzz - ciudaddelanime@booru.org tag search", 1, ["36bf13f194c3b923238b12a453a9d772157c0d80a1ad9b6ca7030ae4ba601707", "https://ciudaddelanime.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

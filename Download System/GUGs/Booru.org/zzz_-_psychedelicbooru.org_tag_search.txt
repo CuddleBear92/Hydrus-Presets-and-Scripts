@@ -1,1 +1,0 @@
-[69, "zzz - psychedelic@booru.org tag search", 1, ["8987e9e4a4c19478bb65a4993ac98f6d7cd79ed58ca1e1f7446944eb178ff2eb", "https://psychedelic.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

@@ -1,1 +1,0 @@
-[69, "zzz - cupheadfeet@booru.org tag search", 1, ["d58705b9b310874d3dc50ea4eaf0799035e2f571ea0bdce473b0170664283ba3", "https://cupheadfeet.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

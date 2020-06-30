@@ -1,9 +1,0 @@
-!Booru
-_advance_by_page_num: true
-_image_data: null
-_image_id: ''
-_name: inkbunny creator parser
-_search_separator: +
-_search_url: https://inkbunny.net/gallery/%tags%/%index%/
-_tag_classnames_to_namespaces: {asddsaas: '', creator: creator}
-_thumb_classname: 'widget_imageFromSubmission '

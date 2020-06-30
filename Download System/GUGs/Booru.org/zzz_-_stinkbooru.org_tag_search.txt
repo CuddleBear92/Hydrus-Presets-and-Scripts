@@ -1,1 +1,0 @@
-[69, "zzz - stink@booru.org tag search", 1, ["c511c2e2fcacfd28dd0d2ce5b49567858b151e282969a09fe2e72bbc1607fbae", "https://stink.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

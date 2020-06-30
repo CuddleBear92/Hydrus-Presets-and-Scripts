@@ -1,1 +1,0 @@
-[69, "zzz - mugen@booru.org tag search", 1, ["258294bbb20fe641d2e3910dc17fe0d21233fabfe1e7d4371de4f73e3cf80cb8", "https://mugen.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

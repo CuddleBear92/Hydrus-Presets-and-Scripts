@@ -1,1 +1,0 @@
-[69, "zzz - altdl@booru.org tag search", 1, ["62b7a602cda8c0998702e8884d72203b4c9a01c8a65efb9848b64ecc433e62c0", "https://altdl.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

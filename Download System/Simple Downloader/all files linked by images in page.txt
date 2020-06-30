@@ -1,1 +1,0 @@
-[63, "all files linked by images in page", 1, [27, 6, [[26, 1, [[62, 1, [0, "a", {}, null, null]], [62, 1, [0, "img", {}, null, null]], [62, 1, [1, "a", null, null, 1]]]], 0, "href", [51, 1, [3, "", null, null, "example string"]], [55, 1, [[], "parsed information"]]]]]

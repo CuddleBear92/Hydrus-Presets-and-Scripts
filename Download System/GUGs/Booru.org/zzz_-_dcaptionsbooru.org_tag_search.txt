@@ -1,1 +1,0 @@
-[69, "zzz - dcaptions@booru.org tag search", 1, ["d056bb0d26d145f75dfcea59c5e1d728a05c4ea6d750aa2fbd7c6915a35ae976", "https://dcaptions.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

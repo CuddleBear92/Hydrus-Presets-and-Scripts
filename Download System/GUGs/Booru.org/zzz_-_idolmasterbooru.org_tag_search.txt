@@ -1,1 +1,0 @@
-[69, "zzz - idolmaster@booru.org tag search", 1, ["3077cbe04167d5ed8a305a6285b11a7ece47b542534f3cd160f0056a28c0cf33", "https://idolmaster.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

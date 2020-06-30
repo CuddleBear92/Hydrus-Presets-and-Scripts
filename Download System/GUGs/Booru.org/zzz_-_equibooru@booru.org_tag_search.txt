@@ -1,1 +1,0 @@
-[69, "zzz - EquiBooru@booru.org tag search", 1, ["95d035bfeea1e9a0d7373bb814c8a5c94a95513bcf9e4a34671ba248b72597c9", "https://equi.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "horse solo"]]

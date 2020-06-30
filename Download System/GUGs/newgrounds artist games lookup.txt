@@ -1,1 +1,0 @@
-[69, "newgrounds artist games lookup", 1, ["3dd875b23e1d4d70fe8c5be8f025cb96168bc9fa5a827a63a40a8ff33e43c030", "https://%artist%.newgrounds.com/games/", "%artist%", "-", "artist username", "matt-likes-swords"]]

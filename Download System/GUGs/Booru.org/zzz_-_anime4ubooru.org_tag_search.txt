@@ -1,1 +1,0 @@
-[69, "zzz - anime4u@booru.org tag search", 1, ["c154edc9564e192b5bb411fdeb68d6bc75f2f9e419ba021e465abf18ed58b857", "https://anime4u.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]

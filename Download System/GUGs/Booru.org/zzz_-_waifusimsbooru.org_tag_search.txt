@@ -1,1 +1,0 @@
-[69, "zzz - waifusims@booru.org tag search", 1, ["0c66955b90e357b4083abb0c18772b985e922d7f1a13a193f02e3c63d0f833bd", "https://waifusims.booru.org/index.php?page=post&s=list&tags=%tags%", "%tags%", "+", "search tags", "pepe feels"]]
