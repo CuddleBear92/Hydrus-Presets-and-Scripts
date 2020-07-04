@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1"
+   id="svg18"
+   sodipodi:docname="folder-blue-hydrus.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="988"
+     id="namedview20"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="14.987772"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <rect
+     style="opacity:0.2"
+     width="40"
+     height="26"
+     x="4"
+     y="17"
+     rx="2"
+     ry="2"
+     id="rect2" />
+  <path
+     style="fill:#4877b1;fill-opacity:1"
+     d="M 4,34 C 4,35.108 4.892,36 6,36 H 42 C 43.108,36 44,35.108 44,34 V 12 C 44,10.892 43.108,10 42,10 H 22 V 8 C 22,6.892 21.108,6 20,6 H 6 C 4.892,6 4,6.892 4,8"
+     id="path4" />
+  <rect
+     style="opacity:0.2"
+     width="40"
+     height="26"
+     x="4"
+     y="15"
+     rx="2"
+     ry="2"
+     id="rect6" />
+  <rect
+     style="fill:#e4e4e4"
+     width="36"
+     height="16"
+     x="6"
+     y="13"
+     rx="2"
+     ry="2"
+     id="rect8" />
+  <rect
+     style="fill:#5294e2;fill-opacity:1"
+     width="40"
+     height="26"
+     x="4"
+     y="16"
+     rx="2"
+     ry="2"
+     id="rect10" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 6,6 C 4.892,6 4,6.892 4,8 V 9 C 4,7.892 4.892,7 6,7 H 20 C 21.108,7 22,7.892 22,9 V 8 C 22,6.892 21.108,6 20,6 Z M 22,10 V 11 H 42 C 43.108,11 44,11.892 44,13 V 12 C 44,10.892 43.108,10 42,10 Z"
+     id="path12" />
+  <path
+     d="m 29.870119,25.188045 q -0.671503,0.15904 -0.830542,0.459448 -0.159038,0.300408 -0.159038,1.48437 v 1.652246 q 0,2.394431 -1.03376,3.44586 -1.033759,1.042593 -3.110109,1.0691 v 3.70209 h -1.466701 v -3.70209 q -2.111694,-0.01767 -3.127779,-0.998416 -1.016085,-0.98958 -1.016085,-3.163122 v -2.005668 q 0,-1.024922 -0.150208,-1.40485 -0.150204,-0.388764 -0.848212,-0.538968 v -0.432941 h 2.5358 v 4.214551 q 0,1.926147 0.609654,2.721346 0.609654,0.795198 1.99683,0.901225 V 21 h 1.466701 v 11.592226 q 1.493205,-0.150204 2.049845,-0.963074 0.556639,-0.821705 0.556639,-2.694839 v -4.179209 h 2.526965 z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1d344f;fill-opacity:1;stroke:none;stroke-width:0.45238"
+     id="path60-3" />
+</svg>
