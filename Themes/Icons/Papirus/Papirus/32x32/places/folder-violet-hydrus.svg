@@ -1,0 +1,9 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="11" width="28" height="18" rx="1.4" ry="1.4" style="opacity:.2"/>
+ <path d="m3.4 3c-0.775 0-1.4 0.625-1.4 1.4v18.2c0 0.775 0.625 1.4 1.4 1.4h25.2c0.775 0 1.4-0.625 1.4-1.4v-15.2c0-0.775-0.625-1.4-1.4-1.4h-13.6v-1.6c0-0.775-0.625-1.4-1.4-1.4z" style="fill:#5d399b"/>
+ <rect x="2" y="9" width="28" height="18" rx="1.4" ry="1.4" style="opacity:.2"/>
+ <rect x="4" y="8" width="24" height="11" rx="1.4" ry="1.4" style="fill:#e4e4e4"/>
+ <rect x="2" y="10" width="28" height="18" rx="1.4" ry="1.4" style="fill:#7e57c2"/>
+ <path d="m3.4 3c-0.775 0-1.4 0.625-1.4 1.4v1c0-0.775 0.625-1.4 1.4-1.4h10.2c0.775 0 1.4 0.625 1.4 1.4v-1c0-0.775-0.625-1.4-1.4-1.4zm11.6 3v1h13.6c0.775 0 1.4 0.625 1.4 1.4v-1c0-0.775-0.625-1.4-1.4-1.4z" style="fill:#ffffff;opacity:.1"/>
+ <text x="11.407601" y="21.625013" style="fill:#2c1e44;font-size:11.2705px;line-height:1.25" xml:space="preserve"><tspan id="tspan17" x="11.407601" y="21.625013" dy="0" style="fill:#2c1e44;font-family:Cambria">𝛙</tspan></text>
+</svg>
