@@ -1,6 +1,6 @@
 # Patreon
 
-This Patreon all-in-one handles Patreon creators and posts. It will get media and attachments from posts as well as some tags. It should also handle `patreon.com` creator and post links.
+This Patreon all-in-one handles Patreon creators and posts. It will get media and attachments from posts as well as some tags. It should also handle `patreon.com` creator and post links. It will only get posts your account has access to.
 
 ## Login Setup
 
