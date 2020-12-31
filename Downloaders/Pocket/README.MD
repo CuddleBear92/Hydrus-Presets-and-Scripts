@@ -1,3 +1,5 @@
+[See the help files for how to add downloaders to Hydrus](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+
 This downloader will download any unread link saved to your Pocket account, assuming Hydrus can parse it. Now you can send links to your client from any device, anywhere! Well, more or less.
 
 Of course, it's not as easy as import-and-go, it does require a bit of setup.

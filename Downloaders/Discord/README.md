@@ -1,3 +1,5 @@
+[See the help files for how to add downloaders to Hydrus](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+
 You need an authorisation token to access what your Discord account can access.
 
 1. Login to to Discord in either a browser of the Discord client.

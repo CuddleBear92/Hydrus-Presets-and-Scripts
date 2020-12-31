@@ -1,3 +1,5 @@
+[See the help files for how to add downloaders to Hydrus](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+
 # API parser
 Unlike the web frontend of Sankaku the API is not limited and can thus download a lot more in the same timeframe.
 

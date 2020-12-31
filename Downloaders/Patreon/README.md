@@ -1,3 +1,5 @@
+[See the help files for how to add downloaders to Hydrus](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+
 # Patreon
 
 This Patreon all-in-one handles Patreon creators and posts. It will get media and attachments from posts as well as some tags. It should also handle `patreon.com` creator and post links. It will only get posts your account has access to.
