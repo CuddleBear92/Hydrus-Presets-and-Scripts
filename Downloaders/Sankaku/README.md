@@ -11,6 +11,15 @@ The reason for this is that the URLs generated are only valid for a limited time
 The Sankaku API is limited to 5000 items so any queries bigger than that will need to be done in batches by adding an offset.  
 `1girl` for example will only get the first 5k item. Then, you have to look up the ID of the last post you downloaded. Adding `id_range:<=LAST_POST_ID` (E.g., `1girl id_range:<=42000`) will return the next 5k items.
 
+## CAPI-V2 Auth
+Since cookies do not work anymore, you have to manually add the auth bearer token to hydrus.
+1. Open browser, loging into beta page
+2. Open dev tools, go to network and reload the page
+3. Search for the first occurrence of keyset url in your network tab
+4. Create a new `authorization` HTTP HEADER in hydrus for the `capi-v2.sankakucomplex.com` domain. Copy the content of `authorization` and paste it into the value field.
+5. Update the header every 48 hours manually. Or bug the dev to add HTTP HEADER api endpoint, which would make thing much more easier.
+6. Do not forget to allow the HTTP HEADER to be used. Or was it approve?
+
 ---
 
 # Default parser
