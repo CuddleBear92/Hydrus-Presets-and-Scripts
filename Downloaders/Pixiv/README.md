@@ -1,3 +1,5 @@
+[See the help files for how to add downloaders to Hydrus](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+
 If you are encountering the issue that you can't download any R18 art from Pixiv even though you are logged in with the login script in Hydrus, the following is likely the case:
 
 The Pixiv login in Hydrus is currently broken and does not work. It is flat out removed on new installs. Due to technical limitations it will still falsely report that you are logged in after a login attempt, even though you are in fact not.

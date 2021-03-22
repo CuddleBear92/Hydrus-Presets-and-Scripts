@@ -1,3 +1,5 @@
+[See the help files for how to add downloaders to Hydrus](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+
 This downloader uses Google's Google Drive API to parse and download files and folders on Google Drive. 
 
 In order to use this downloader, a Google Drive API key is necessary. These instructions will teach you how to generate and add an API key to the parser.
