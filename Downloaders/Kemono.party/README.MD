@@ -8,6 +8,10 @@ Separate GuGs are used for each site.
 
 The site still occasionally gives errors, so be prepared to check for that stuff.
 
+## If you're recieving 403 errors
+
+Kemono.party has recently added DDoS-Guard protection, which can prevent Hydrus from accessing the site. Using cookies from a browser can work around this issue. Cookies can easily be sent to Hydrus using [Hydrus Companion](https://gitgud.io/prkc/hydrus-companion).
+
 ## Notes
 
 If you imported this downloader before January 25th, 2021, delete k.p parsers and url classes with "gr/ss" in the name.
