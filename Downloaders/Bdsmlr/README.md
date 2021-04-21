@@ -1,6 +1,6 @@
 [See the help files for how to add downloaders to Hydrus](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
 
-### What is this
+## What is this
 A collection of parsers, url classes, and a GUG for downloading images and videos from bdsmlr.com blogs. Requires authenticated cookies from a bdsmlr account with specific settings, or it will not work! (see below)
 
 ## How to get this working
