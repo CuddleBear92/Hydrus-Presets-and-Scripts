@@ -1,1 +1,3 @@
-Native Twitter downloading is not supported in Hydrus due to changes in Twitter's API. Use the [Nitter](../Nitter/) downloader instead.
+~~Native Twitter downloading is not supported in Hydrus due to changes in Twitter's API~~. Use the [Nitter](../Nitter/) downloader instead.
+
+Direct downloading from Twitter is now supported again due to finding a different API, downside is that it can only get a fairly limited amount of tweets. If you want to get more than the 500 or so you'll need to use something like Nitter to generate post links.
