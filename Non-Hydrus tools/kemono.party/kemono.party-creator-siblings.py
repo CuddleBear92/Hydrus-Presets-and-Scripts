@@ -1,7 +1,7 @@
 import requests, json, os
 
 creators = json.loads(requests.get('https://kemono.party/api/creators').text)
-file = open("yiff_siblings.txt", 'a',encoding="utf-8")
+file = open("kemono.party_siblings.txt", 'a',encoding="utf-8")
 
 for creator in creators:
     name = creator['name']
