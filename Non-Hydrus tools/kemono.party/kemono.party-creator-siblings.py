@@ -9,6 +9,6 @@ for creator in creators:
     service = creator["service"]
     if name and id != "":
         if service == "fanbox": continue
-        file.write(str(service)+" id:"+str(id)+"\ncreator:"+name+"\n")
+        file.write(service + " id:" + id + "\ncreator:" + name.replace('\n', ' ') + "\n")
 
 file.close()
