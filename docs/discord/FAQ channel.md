@@ -75,7 +75,7 @@ __**Links**__
 > E-mail: hydrus.admin@gmail.com or (`@hydrus_dev#5313`) for direct messaging on Discord.
 
 
-> __**Other useful Links:**__
+__**Other useful Links:**__
 > The fucking manual: <https://hydrusnetwork.github.io/hydrus/help/>
 > The simple manual: <https://github.com/Zweibach/text/blob/master/Hydrus/Hydrus%20Help%20Docs/00_tableOfContents.md>
 > The video manual: <https://github.com/CuddleBear92/Hydrus-guides>
