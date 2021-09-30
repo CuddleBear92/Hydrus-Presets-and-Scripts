@@ -1,74 +1,81 @@
 __**GENERAL**__
-```css
-[What is Hydrus?]
-It's a file Manager and Downloader based on hash values and tags.
-It allows for easy management of tags for almost any file.
-But is made for file from the online web, like a booru or an imageboard.
-[My Antivirus says this is bad!]
-It's a False Positive!
-#Check with https://www.virustotal.com for confirmation.
-[My Question isn't covered in this shitty FAQ.]
-Use the Discord Search feature!
-[That didn't help]
-Explorer the UI yourself and just TRY.
-[That didn't help]
-Then ask in #support_chat
-```
+> ***What is Hydrus?***
+> It's a file manager and downloader based on hash values and tags.
+> It allows for easy management of tags for almost any file, primarily images.
+> But is made for file from the online web, like a booru or imageboard.
+
+> ***My Antivirus says this is bad! Is it!?***
+> No. It's a false positive caused by many viruses using the same common Python libraries Hydrus (and other software) uses for its network functionality.
+> Check with <https://www.virustotal.com> for confirmation.
+
+> ***My question isn't covered in this shitty FAQ.***
+> Not a question. Use the Discord __*Search feature!*__
+> Explorer the UI yourself and just TRY. Read the manual. It is extensive and offers answers and explanations to the majority of the features.
+
+> **That didn't help.**
+> Then ask in #support (and read the manual). Also, still not a question.
+
 
 __**DOWNLOAD SYSTEM**__
-```css
-[Pixiv doesn't work.]
-Make sure you are logged in or reset the login.
-[Tumblr doesn't work.]
-Try turning on the GDPR option under: Network>Downloaders>DEBUG>do tumblr GDPR click-through.
-[How do i download from SadPanda?]
-Import the preset and copy over your cookies from your browser!
-[How do i import tags from a website?]
-You can set client wide default tag import options under: Network>Downloaders>Manage Tag Import Options.
-Or per download tab under tag import options individually.
-[Where do i find new Download Presets?]
-At the preset github: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts
-[How do i import a Preset .png image file?]
-Import under Network>Downloaders>Import Downloaders
-[How do i RIP/Download a whole site?]
-Generate the urls outside of the client (Notepad++) and import it into the url downloader or gallery downloader tabs.
-[How do i access restricted content?]
-Login on the Client, add your login details in the login script or import the Cookies from your browser.
-```
+> ***Why doesn't Pixiv work?***
+> You may be required to be logged on to Pixiv. For Hydrus you need to both import the Pixiv cookies from your browser and copy the browsers exact user-agent.
+> Read this guide: <https://github.com/Zweibach/text/blob/master/Hydrus/Sites/Pixiv.md>
+
+> ***Why doesn't Tumblr work?***
+> Try turning on the GDPR option under `network > logins > DEBUG: do tumblr GDPR click-through`.
+
+> ***How do I download from SadPanda?***
+> Import the preset and copy over your cookies from your browser.
+> Or if you're an advanced user: <https://github.com/imtbl/hex>
+
+> ***How do I import tags from a website?***
+> Read the manual: <https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#parsing_tags>
+ 
+> ***Where do I find new Download Presets?***
+> At the presets GitHub page: <https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/tree/master/Downloaders>
+
+> ***How do I import a Preset .png image file?***
+> Read the manual: <https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html>
+
+> ***How do I scrape/download a whole site?***
+> Hydrus is not built with this sort of extensive scraping in mind but it may work for some sites, but requires a lot of work.
+> **a)** Manually generate (copy) all the relevant URLs from the website and make a list in your text editor. Put only one URL per line. Once your list is complete copy the entire list and import them into a Hydrus *URL Import* page. Click the clipboard icon :hydrus_paste_clipboardicon: next to the input field to paste them in bulk for import.
+> **b)** __Recommended__: Use a tool that is designed for this purpose. There are plenty of website scraping tools available if you search for it.
+
+> ***How do I access restricted content?***
+> Depending on the site you can just log on from within Hydrus. Some methods include:
+> **a)** Login scripts: Navigate to `network > logins` and add your login details to he site in question if one exists. If a login script doesn't exist you may create one yourself (advanced).
+> **b)** Import cookies: If your web browser is already logged on you can export its session cookies and import these into Hydrus. Hydrus directly supports the Netscape/Mozilla cookie file format.
+> **c)** __Recommended__: Setup the Hydrus API, then download and install the Hydrus Companion browser extension and configure it with the API details. This allows you to easily transfer cookies directly into Hydrus with a click.
+> *Hydrus API manual: <https://hydrusnetwork.github.io/hydrus/help/client_api.html>*
+> *Hydrus Companion: <https://gitgud.io/prkc/hydrus-companion>*
+
 
 __**TAGS**__
-```css
-[Can i make Siblings/Parent Tags of namespaces?]
-No.
-[How do i grab tags for files with none?]
-Use IQDB or query the md5 value of the file on your favorite site.
-https://github.com/rachmadaniHaryono/iqdb_tagger
-```
+> ***Can I make siblings/parents for namespaces?***
+> No. <https://github.com/hydrusnetwork/hydrus/issues/589>  
 
-__**Duplicate System**__
-```css
-[Can i search for Duplicate Videos/Gifs?]
-No, Not yet. Its planed.
-[Working though the dupes are so slow.]
-Use the duplicate filter in the duplicate tab.
-```
+> ***How do I automatically get tags for files?***
+> Read this guide: <https://github.com/Zweibach/text/blob/master/Hydrus/tagLessFiles.md>
+
+
+__**DUPLICATE SYSTEM**__
+> ***Can I dupe search videos/.gif?***
+> No. <https://github.com/hydrusnetwork/hydrus/issues/160>
+
 
 __**Links**__
-```md
-# Github: https://github.com/hydrusnetwork/hydrus
-# Presets & Scripts: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts
-# PTR Repo files: https://cuddlebear92.github.io/Quicksync/
-# 8chan: https://8ch.net/hydrus/index.html
-# Tumblr: http://hydrus.tumblr.com/
-# Twitter: https://twitter.com/hydrusnetwork
-# Patreon: https://www.patreon.com/hydrus_dev
-# e-mail: hydrus.admin@gmail.com ( @Hydrus Developer )
+> GitHub: <https://github.com/hydrusnetwork/hydrus>
+> Presets & Scripts: <https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts>
+> PTR FAQ: <https://github.com/Zweibach/text/blob/master/Hydrus/PTR.md>
+> PTR Quicksync: <https://koto.reisen/quicksync/>
+> Tumblr: <http://hydrus.tumblr.com/>
+> Twitter: <https://twitter.com/hydrusnetwork>
+> Patreon: <https://www.patreon.com/hydrus_dev>
+> E-mail: hydrus.admin@gmail.com or (`@hydrus_dev#5313`) for direct messaging on Discord.
 
-Common Links:
-# IQDB_Tagger: https://github.com/rachmadaniHaryono/iqdb_tagger
-# MD5 queries: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/2.-How-to-fetch-tags-in-bulk-with-md5-hash
 
-Common Downloads:
-# Google Drive: https://drive.google.com/open?id=1LcaHuH_AuIjt6rgZKJSluYH0oVuiI_-I
-# Mega.nz: https://mega.nz/#F!s4QAFSSS!N-xuLHNH4IOd47sNEA__Xg
-```
+> __**Other useful Links:**__
+> The fucking manual: <https://hydrusnetwork.github.io/hydrus/help/>
+> The simple manual: <https://github.com/Zweibach/text/blob/master/Hydrus/Hydrus%20Help%20Docs/00_tableOfContents.md>
+> The video manual: <https://github.com/CuddleBear92/Hydrus-guides>
