@@ -20,3 +20,7 @@ Social:
 * 8ch: https://8ch.net/hydrus/index.html
 * Tumblr: http://hydrus.tumblr.com/
 * Twitter: https://twitter.com/hydrusnetwork
+
+
+# Hydrus Send Url.shortcut
+This is an iOS and iPad OS shortcut for sending urls to your Hydrus client. Download and import into your Shortcuts app and fill the client address, api key and the tab name it will use in Hydrus.
