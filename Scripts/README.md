@@ -1,5 +1,9 @@
 # 3rd party scripts run outside of the [Hydrus](https://github.com/hydrusnetwork/hydrus/) Client.
 
+
+## Hydrus Send Url.shortcut
+This is an iOS and iPad OS shortcut for sending urls to your Hydrus client. Download and import into your Shortcuts app and fill the client address, api key and the tab name it will use in Hydrus.
+
 ## [Booru.org](https://booru.org/top) GUG Generator
 This Generates GUG files from a list of [Booru.org](https://booru.org/top) subdomains for easy bulk import.
 
