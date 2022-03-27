@@ -18,7 +18,11 @@ Since cookies do not work anymore, you have to manually add the auth bearer toke
 3. Search for the first `GET` request occurrence of keyset url in your network tab and open the headers tab of the details.
 4. Create a new `authorization` HTTP HEADER in hydrus for the `capi-v2.sankakucomplex.com` domain. Copy the content of the `authorization` request header and paste it into the value field.
 5. Update the header every 48 hours manually. Or bug the dev to add HTTP HEADER api endpoint, which would make thing much more easier.
-6. Do not forget to allow the HTTP HEADER to be used. Or was it approve?
+6. Do not forget to approve the HTTP header to be used.
+
+For example:
+
+![image](https://user-images.githubusercontent.com/1300395/160287848-9a5558e0-9a09-4289-891d-9088272b7ce8.png)
 
 ---
 
