@@ -15,8 +15,8 @@ The Sankaku API is limited to 5000 items so any queries bigger than that will ne
 Since cookies do not work anymore, you have to manually add the auth bearer token to hydrus.
 1. Open browser, loging into beta page
 2. Open dev tools, go to network and reload the page
-3. Search for the first occurrence of keyset url in your network tab
-4. Create a new `authorization` HTTP HEADER in hydrus for the `capi-v2.sankakucomplex.com` domain. Copy the content of `authorization` and paste it into the value field.
+3. Search for the first `GET` request occurrence of keyset url in your network tab and open the headers tab of the details.
+4. Create a new `authorization` HTTP HEADER in hydrus for the `capi-v2.sankakucomplex.com` domain. Copy the content of the `authorization` request header and paste it into the value field.
 5. Update the header every 48 hours manually. Or bug the dev to add HTTP HEADER api endpoint, which would make thing much more easier.
 6. Do not forget to allow the HTTP HEADER to be used. Or was it approve?
 
