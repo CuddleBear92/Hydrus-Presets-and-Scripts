@@ -6,7 +6,8 @@ with open("kemono.party_siblings.txt", 'a', encoding="utf-8") as file:
         name = creator['name']
         id = creator['id']
         service = creator["service"]
-        if name and id != "":
+        if name and id:
             if service == "fanbox": continue
-            file.write(service + " id:" + id + "\ncreator:" + name.replace('\n', ' ') + "\n")
+            creator_name = name.replace('\n', ' ')
+            file.write(f"{service} id:{id}\ncreator:{creator_name}\n")
 
