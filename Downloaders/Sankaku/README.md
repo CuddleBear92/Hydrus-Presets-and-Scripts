@@ -7,6 +7,8 @@ To ensure things work properly you will need to delete all bandwidth limits for 
 
 The reason for this is that the URLs generated are only valid for a limited time (1h as of April 2021) so if you haven't downloaded them when they expire you'll only get trash.
 
+This preset requires Hydrus 568 or newer. Also make sure to remove all previous sankaku URL Classes (network > downloader component > manage url classes).
+
 ## Search limitations
 The Sankaku API is limited to 5000 items so any queries bigger than that will need to be done in batches by adding an offset.  
 `1girl` for example will only get the first 5k item. Then, you have to look up the ID of the last post you downloaded. Adding `id_range:<=LAST_POST_ID` (E.g., `1girl id_range:<=42000`) will return the next 5k items.
