@@ -2,7 +2,7 @@
 
 ## Kemono.party Downloader
 
-Currently supports Patreon, Fanbox, Subscribestar and Gumroad content.
+Currently supports DLSite, Fanbox, Fantia, Gumroad, Patreon, Subscribestar, Onlyfans, Fansly & CandFans content from Kemono and Coomer.
 
 Separate GuGs are used for each site.
 
