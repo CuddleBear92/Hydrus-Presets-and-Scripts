@@ -17,7 +17,6 @@ for help using these presets and scripts, take a look at our wiki: https://githu
 
 Social:
 * Discord live Chat: https://discord.com/invite/wPHPCUZ (where you find alot if not most of our community of users)
-* 8ch: https://8ch.net/hydrus/index.html
 * Tumblr: http://hydrus.tumblr.com/
 * Twitter: https://twitter.com/hydrusnetwork
 
