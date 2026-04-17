@@ -1,7 +1,7 @@
 [See the help files for how to add downloaders to Hydrus](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
 
-this preset/parser will only be able to download files from creators that you have subscribed to. only tested on images.
+This preset/parser will only be able to download files from creators that you have subscribed to. Tested on images and attachments.
 
-this preset/parser can not download files from creators you are not subscribed to.
+This preset/parser cannot download files from creators you are not subscribed to.
 
-remember to import your browser session cookies so hydrus is logged in before you use it.
+Remember to import your browser session cookies so hydrus is logged in before you use it.
