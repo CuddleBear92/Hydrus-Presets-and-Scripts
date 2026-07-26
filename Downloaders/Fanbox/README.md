@@ -2,26 +2,37 @@
 
 This downloader pulls images at their original size directly from Fanbox.
 It supports URLs of the form `https://www.fanbox.cc/@username` as well as
-`https://username.fanbox.cc`. Post summaries are added as notes.
+`https://username.fanbox.cc`. Post summaries are added as notes. Has GUGs for
+pinned and paginated posts respectively, and the NGUG `fanbox.cc artist lookup`
+combines both.
 
 ## Authentication
 You will need the following information to authenticate with, and be
 authorized to use, the Fanbox API:
 
 ### Cookies
-You must import your session cookies to Hydrus for this downloader to work.
+You **must** import your session cookies to Hydrus for this downloader to work.
 *At the very least,* you must have `cf_clearance` and `FANBOXSESSID`. This
 may be a moving target, so importing all your cookies for the `fanbox.cc`
-domain is your best bet.
+domain is your best bet. Some of these cookies expire relatively quickly, so
+you'll need to *import fresh cookies on a regular basis.*
 
 ### Headers
 This downloader sets an `Origin` header override for you. This is necessary to
 access the Fanbox API.
 
-You must also manually add a `User-Agent` header for the `fanbox.cc` domain,
-or else you will be blocked by Cloudflare. Make sure it *exactly matches* the
-value that the browser you get your cookies from uses. This downloader can't
-set this for you.
+You **must** also manually edit the `User-Agent` header for the `fanbox.cc`
+domain, or else you will be blocked by Cloudflare. Make sure it *exactly
+matches* the value that the browser you get your cookies from uses. This
+downloader can't set this for you; you have to go edit the placeholder
+manually, and keep it up to date with your browser.
+
+### HTTP fingerprint
+You **must** enable `curl_cffi` mode in Hydrus' settings–with it set to the
+same browser type as from your `User-Agent` header–in order for this downloader
+to work under the Cloudflare HTTP fingerprint restrictions on Fanbox.
+
+`curl_cffi` mode is available from Hydrus v674.
 
 ## Tips for dealing with Cloudflare 
 
@@ -34,7 +45,7 @@ for you to encounter 403 errors or unparseable pages:
   heuristics.
 * Keep your Fanbox subscriptions paused most of the time; when you are ready
   to catch up on your Fanbox subs, send new cookies per the previous bullet
-  point first, then unpause your fanbox subs, and then pause them again once
+  point first, then unpause your Fanbox subs, and then pause them again once
   they are complete. If you forget to pause, your subscriptions will probably
   wake up and run at some point when your Cloudflare cookies are invalid. In
   this case, you can _try_ retrying failed/ignored URLs in the subscriptions
@@ -42,15 +53,12 @@ for you to encounter 403 errors or unparseable pages:
 * Keep your IP address consistent between connections made by your browser and
   by Hydrus.
 * If you use a VPN, you may need to disable it before logging into Fanbox to
-  get your cookies, and you may need to make keep it disabled while your subs
-  are running. If you are a power user, you may have some luck with split
-  tunnels or a dedicated outbound proxy with a stable IP address, but the
-  average Joe should just disable their VPN when it's "Fanbox time," then
-  re-enable it afterward. 
+  get your cookies and keep it disabled while using this downloader. If you
+  are a power user, you may have some luck with split tunnels or a dedicated
+  outbound proxy with a stable IP address, but the average Joe should just
+  disable their VPN when it's "Fanbox time," then re-enable it afterward. 
 * If you still run into issues:
-  * Add stricter request/bandwidth limits for these domains, as necessary
-    (note: only really applies if you override Hydrus' defaults or set custom
-    values for these domains before):
+  * Add stricter request/bandwidth limits for these domains, as necessary.
     * `fanbox.cc`
     * `downloads.fanbox.cc`
     * `api.fanbox.cc`
@@ -60,6 +68,8 @@ for you to encounter 403 errors or unparseable pages:
     and just use a gallery downloader page.
   * Triple-check that your `User-Agent` header matches your browser's. If your
     browser auto-updates, you'll need to stay on top of when that happens.
+  * Triple-check that you have `curl_cffi` mode enabled in Hydrus and that it
+    matches the browser type in your `User-Agent` header.
   * If it's still not working, try seeking community help in Discord.
 
 If you learn of any cool tricks to deal with the Cloudflare protection,
