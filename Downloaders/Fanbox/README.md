@@ -56,7 +56,7 @@ for you to encounter 403 errors or unparseable pages:
   get your cookies and keep it disabled while using this downloader. If you
   are a power user, you may have some luck with split tunnels or a dedicated
   outbound proxy with a stable IP address, but the average Joe should just
-  disable their VPN when it's "Fanbox time," then re-enable it afterward. 
+  disable their VPN when it's "Fanbox time," then re-enable it afterward.
 * If you still run into issues:
   * Add stricter request/bandwidth limits for these domains, as necessary.
     * `fanbox.cc`
